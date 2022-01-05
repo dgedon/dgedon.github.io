@@ -1,32 +1,44 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
+  - /home/
+  - /home.html
   - /about/
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+I am a Ph.D. candidate in deep learning at [Uppsala University](https://www.uu.se/en){:target="_blank"} in Sweden. 
+My main supervisor is [Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} and I am
+co-supervised by [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250){:target="_blank"} 
+and [Antônio H. Ribeiro](https://antonior92.github.io/){:target="_blank"}.
+I am fully supported by the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/){:target="_blank"}.
+My Ph.D. is planned to be finished in the summer of 2024 which concludes the five year program.
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+I received my B.Eng. in Aerospace Engineering from the 
+[Baden-Württemberg Corporate State University](https://www.ravensburg.dhbw.de/startseite){:target="_blank"}, Germany in 2015 which was in
+cooperation with [Airbus](https://www.airbus.com/en/products-services/space){:target="_blank"}, Friedrichshafen in Germany.
+In 2019 I received my M.Sc. degree in Systems and Control from [TU Delft](https://www.tudelft.nl/){:target="_blank"} in the Netherlands.
+Between my B.Eng. and M.Sc. degree I have one year of industrial experience in the aerospace industry at Airbus Space.
+Since 2019 I am pursing my Ph.D. degree.
+
+My research can be split within the field of deep learning in two areas. 
+The applied side revolves around medical problems. In particular, we look at 
+[ECG](https://en.wikipedia.org/wiki/Electrocardiography){:target="_blank"} recordings and 
+try to improve the classification of medical conditions with deep learning based models. 
+The theoretical side of my research focuses in general on understanding how specific deep models works.
+Specifically, I am interested in unsupervised and self-supervised learning methods and 
+what they are learning from the given data. For details about the results, see my [publications](/publications).
+
+---
+## Latest Results and News
+
+**October 26, 2021, Accepted Paper**: Our submission to the NeurIPS workshop 
+[Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021)
+in ECG classification of myocardial infarctions was accepted as spotlight talk.\
+[Project](/publications/2112_nstemiworkshop/){: .btn--research}
+[Paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
+[Slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}

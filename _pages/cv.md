@@ -5,8 +5,15 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv
+  - /curriculumvitae
+  - /lebenslauf
 ---
 
-<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<!--- <iframe src="/files/pdf/cv/CV_DanielGedon_2201.pdf" width="50%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+My CV can be viewed and downloaded [here](/files/pdf/cv/CV_DanielGedon_2201.pdf).
 
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+## Coursework
+
+My study coursework (for Ph.D., Master and Bachelor level) is listed [here](/cv/coursework).
+
