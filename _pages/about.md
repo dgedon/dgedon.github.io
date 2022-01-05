@@ -34,7 +34,7 @@ Specifically, I am interested in unsupervised and self-supervised learning metho
 what they are learning from the given data. For details about the results, see my [publications](/publications).
 
 ---
-## Latest Results and News
+## Latest research results and news
 
 **October 26, 2021, Accepted Paper**: Our submission to the NeurIPS workshop 
 [Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021)
