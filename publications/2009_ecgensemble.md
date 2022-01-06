@@ -42,6 +42,7 @@ in 28 out of 41 in the official ranking.
   title={Automatic 12-lead ECG Classification Using a Convolutional Network Ensemble},
   year={2020},
   pages={1-4},
+  note={online},
   }
 ```
 

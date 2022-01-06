@@ -12,11 +12,19 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate in deep learning at [Uppsala University](https://www.uu.se/en){:target="_blank"} in Sweden. 
-My main supervisor is [Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} and I am
-co-supervised by [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250){:target="_blank"} 
+My supervisors are [Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} (main),
+[Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250){:target="_blank"} 
 and [Antônio H. Ribeiro](https://antonior92.github.io/){:target="_blank"}.
-I am fully supported by the [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/){:target="_blank"}.
-My Ph.D. is planned to be finished in the summer of 2024 which concludes the five year program.
+I am fully supported by [WASP](https://wasp-sweden.org/){:target="_blank"}.
+My Ph.D. will be finished the summer of 2024.
+
+My research can be split within the field of deep learning in two areas. 
+The applied side revolves around medical problems, where we look at 
+[ECG](https://en.wikipedia.org/wiki/Electrocardiography){:target="_blank"} recordings and 
+try to improve the classification of medical conditions with deep learning based models. 
+The theoretical side of my research focuses on understanding how specific deep models works.
+Specifically, I am interested in unsupervised and self-supervised learning methods and 
+what they are learning from the given data. For details about the results, see my [publications](/publications).
 
 I received my B.Eng. in Aerospace Engineering from the 
 [Baden-Württemberg Corporate State University](https://www.ravensburg.dhbw.de/startseite){:target="_blank"}, Germany in 2015 which was in
@@ -24,14 +32,6 @@ cooperation with [Airbus](https://www.airbus.com/en/products-services/space){:ta
 In 2019 I received my M.Sc. degree in Systems and Control from [TU Delft](https://www.tudelft.nl/){:target="_blank"} in the Netherlands.
 Between my B.Eng. and M.Sc. degree I have one year of industrial experience in the aerospace industry at Airbus Space.
 Since 2019 I am pursing my Ph.D. degree.
-
-My research can be split within the field of deep learning in two areas. 
-The applied side revolves around medical problems. In particular, we look at 
-[ECG](https://en.wikipedia.org/wiki/Electrocardiography){:target="_blank"} recordings and 
-try to improve the classification of medical conditions with deep learning based models. 
-The theoretical side of my research focuses in general on understanding how specific deep models works.
-Specifically, I am interested in unsupervised and self-supervised learning methods and 
-what they are learning from the given data. For details about the results, see my [publications](/publications).
 
 ---
 ## Latest research results and news

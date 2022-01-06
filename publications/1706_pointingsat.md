@@ -22,7 +22,7 @@ cases for the ESA PEET software v1.0.
 ---
 **Authors:** Thomas Ott, Marc Hirth, Massimo Casasco, Simon Görries, **Daniel Gedon**, Alison Ponche\
 **Publication:** GNC 2017: 10th International ESA Conference on Guidance, Navigation & Control Systems\
-**Links:** [Paper](https://www.astos.de/download?TYPE=PAPER&ID=11){: .btn--research}{:target="_blank"}\
+**Links:** [Paper](http://peet.estec.esa.int/files/ESA_GNC2017_PEET_Application_Scenario.pdf){: .btn--research}{:target="_blank"}\
 **BibTeX Citation:**
 ```
 @inproceedings{ott2017pointingsat,
@@ -30,6 +30,7 @@ cases for the ESA PEET software v1.0.
   author={Ott, Thomas and Hirth, Marc and Casasco, Massimo and Goerries, Simon and Gedon, Daniel and Ponche, Alison},
   booktitle={10th International ESA Conference on Guidance, Navigation \& Control Systems, Salzburg, Austria},
   year={2017},
+  address={{Salzburg, Austria}}
 }
 ```
 

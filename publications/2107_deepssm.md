@@ -25,7 +25,7 @@ in a first unified implementation on nonlinear system identification benchmarks.
 
 ---
 **Authors:** *Daniel Gedon*, Niklas Wahlström, Thomas B. Schön, Lennart Ljung\
-**Publication:** SYSID, 2021 (Online)\
+**Publication:** 19th IFAC Symposium on System Identification (SYSID), 2021 (Online)\
 **Links:**
 [doi](https://doi.org/10.1016/j.ifacol.2021.08.406){: .btn--research}{:target="_blank"}
 [arXiv](https://arxiv.org/abs/2003.14162){: .btn--research}{:target="_blank"}
@@ -36,9 +36,10 @@ in a first unified implementation on nonlinear system identification benchmarks.
 @inproceedings{gedon2021deepssm,
   author={Gedon, Daniel and Wahlstr{\"o}m, Niklas and Sch{\"o}n, Thomas B. and Ljung, Lennart},
   title={Deep State Space Models for Nonlinear System Identification},
-  booktitle = {Proceedings of the 19th IFAC Symposium on System Identification (SYSID)},
-  month = {July},
-  year = {2021}
+  booktitle={Proceedings of the 19th IFAC Symposium on System Identification (SYSID)},
+  month={July},
+  year={2021},
+  note={online},
 }
 ```
 

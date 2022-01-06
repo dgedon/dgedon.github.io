@@ -40,4 +40,4 @@ September 4, 2019, **[Tensor Network Kalman Filter for LTI Systems](/publication
 July 5, 2019, [**Tensor Network Kalman Filter for Large-Scale Systems**](/publications/1907_masterthesis/), 
 Master thesis defence, 
 *TU Delft, The Netherlands*.\
-[Slides](/files/pdf/slides/190705_MasterThesis_DanielGedon_handout){: .btn--research}
+[Slides](/files/pdf/slides/190705_MasterThesis_DanielGedon_handout.pdf){: .btn--research}

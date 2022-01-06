@@ -37,6 +37,7 @@ This publication is contained in the master thesis
   title={Tensor Network Kalman Filter for LTI Systems}, 
   year={2019},
   pages={1-5},
+  address={A Coruna, Spain},
   }
 ```
 

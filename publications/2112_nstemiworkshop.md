@@ -43,6 +43,7 @@ This paper was admitted as spotlight talk to the NeurIPS workshop.
   booktitle = {Advances in Neural Information Processing Systems 34/Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop},
   title={ResNet-based ECG Diagnosis of Myocardial Infarction in the Emergency Department},
   year={2021},
+  note={online},
   }
 ```
 

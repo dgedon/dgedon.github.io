@@ -41,6 +41,7 @@ it can lead to larger performance gains.
   title={First Steps Towards Self-Supervised Pretraining of the 12-Lead ECG},
   year={2021},
   pages={1-4},
+  note={online},
   }
 ```
 

@@ -31,7 +31,9 @@ This master thesis contains the publication
 ---
 **Author:** **Daniel Gedon**\
 **Publication:** Master Thesis, TU Delft\
-**Links:** [Thesis](https://repository.tudelft.nl/islandora/object/uuid:2188c114-05ed-4fe6-9603-85de71e9bffd){: .btn--research}{:target="_blank"}\
+**Links:** 
+[Thesis](https://repository.tudelft.nl/islandora/object/uuid:2188c114-05ed-4fe6-9603-85de71e9bffd){: .btn--research}{:target="_blank"}
+[Slides](/files/pdf/slides/190705_MasterThesis_DanielGedon_handout.pdf){: .btn--research}\
 **BibTeX Citation:**
 ```
 @mastersthesis{gedon2019masterthesis,
