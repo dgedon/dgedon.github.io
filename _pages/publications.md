@@ -26,10 +26,11 @@ Machine learning from ground truth: New medical imaging datasets for unsolved me
 [First Steps Towards Self-Supervised Pretraining of the 12-Lead ECG](/publications/2109_ecgssl/)\
 ***Daniel Gedon**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön*\
 Computing in Cardiology (CinC), 2021 (Online)\
-[Paper](https://www.cinc.org/2021/Program/accepted/162_Preprint.pdf){: .btn--research}{:target="_blank"}
+[CinC](https://www.cinc.org/2021/Program/accepted/162_Preprint.pdf){: .btn--research}{:target="_blank"}
+[doi](https://www.doi.org/10.23919/CinC53138.2021.9662748){: .btn--research}{:target="_blank"}
+[IEEE](https://ieeexplore.ieee.org/abstract/document/9662748){: .btn--research}{:target="_blank"}
 [Slides](/files/pdf/slides/210915_ssl_ecg_handout.pdf){: .btn--research}
 [Video (10 min)](https://www.dropbox.com/s/bvpi2h7qzkg5kod/21_cinc_ssl_ecg.mp4?dl=0){: .btn--research}
-
 
 [Deep State Space Models for Nonlinear System Identification](/publications/2107_deepssm/)\
 ***Daniel Gedon**, Niklas Wahlström, Thomas B. Schön, Lennart Ljung*\

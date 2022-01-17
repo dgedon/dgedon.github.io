@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56d4b9be-d0a5-4c1a-937e-f7f607ce33cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/cv.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/talks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/talks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/1706_pointingsat.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/1706_pointingsat.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/1907_masterthesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/1907_masterthesis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/1909_tensornetworkkf.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/1909_tensornetworkkf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/2009_ecgensemble.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/2009_ecgensemble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/2107_deepssm.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/2107_deepssm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/2109_ecgssl.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/2109_ecgssl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications/2112_nstemiworkshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications/2112_nstemiworkshop.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +36,37 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/05_PhD/00_Research/01_Projects/03_LearningDynamics/DeepSSM_SysID" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_cv" />
       <recent name="$PROJECT_DIR$/_pages" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +79,9 @@
       <workItem from="1641291917311" duration="44123000" />
       <workItem from="1641413438729" duration="3667000" />
       <workItem from="1641460923855" duration="3976000" />
-      <workItem from="1641465855640" duration="1223000" />
+      <workItem from="1641465855640" duration="2256000" />
+      <workItem from="1641482988593" duration="1054000" />
+      <workItem from="1641982803098" duration="28000" />
     </task>
     <servers />
   </component>
