@@ -10,12 +10,12 @@ redirect_from:
 
 Currently I am supervising the following students:
 
-[Philipp von Bachmann](https://www.researchgate.net/profile/Philipp-Von-Bachmann-2)\
+[Philipp von Bachmann](https://www.researchgate.net/profile/Philipp-Von-Bachmann-2){: .btn--research}\
 Exchange master student from Tübingen Univeristy.\
-Co-supervising with [Fredrik Gustafsson](http://www.fregu856.com/).\
+Co-supervising with [Fredrik Gustafsson](http://www.fregu856.com/){: .btn--research}.\
 Research project: Regression from ECG data
 
-[Theogene Habineza](https://www.linkedin.com/in/theogene-habineza-716a571b3/?originalSubdomain=se)\
-Co-supervising with [Antônio H. Ribeiro](https://antonior92.github.io/).\
+[Theogene Habineza](https://www.linkedin.com/in/theogene-habineza-716a571b3/?originalSubdomain=se){: .btn--research}\
+Co-supervising with [Antônio H. Ribeiro](https://antonior92.github.io/){: .btn--research}.\
 Master thesis project: Prediction of risk factors for atrial fibrillation from ECG data
 
