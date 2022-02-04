@@ -10,7 +10,7 @@ main:
     url: /teaching/
 
   - title: "Supervision"
-      url: /supervision/
+    url: /supervision/
 
   - title: "CV"
     url: /cv/
