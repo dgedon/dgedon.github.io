@@ -13,7 +13,7 @@ This regards all courses at Uppsala University from 2019 on.
 
 ---
 ## Uppsala University, Sweden
-- Upcoming: [1RT700, Statistical Machine Learning](https://uppsala.instructure.com/courses/46077){:target="_blank"}, 
+- Currently: [1RT700, Statistical Machine Learning](https://uppsala.instructure.com/courses/46077){:target="_blank"}, 
 MSc level, Spring 2022\
 Teaching Assistant
 

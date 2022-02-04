@@ -13,8 +13,8 @@ division of [Systems and Control](https://www.it.uu.se/research/systems_and_cont
 at [Uppsala University](https://uu.se/en){:target="_blank"}, Sweden.
 
 **E-mail:** [daniel.gedon@it.uu.se](mailto:daniel.gedon@it.uu.se)\
-**Visiting address:** [Room 2341](https://link.mazemap.com/Je9CxViy){:target="_blank"}, 
-[ITC, Lägerhyddsv. 2, hus 2 - 752 37 Uppsala](https://goo.gl/maps/EZumPhF7q7A2){:target="_blank"}\
+**Visiting address:** [Room 103166](https://link.mazemap.com/PwWdsfE0){:target="_blank"}, 
+[Ångströmlaboratoriet, hus 10 - 752 37 Uppsala](https://goo.gl/maps/EZumPhF7q7A2){:target="_blank"}\
 **Postal address:**  Box 337 - SE-751 05 Uppsala
 
-More information for visitors [here](http://www.it.uu.se/contact){:target="_blank"}.
+Let me know if you are close by and visit me!
