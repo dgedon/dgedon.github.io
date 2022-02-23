@@ -36,6 +36,13 @@ Since 2019 I am pursing my Ph.D. degree.
 ---
 ## Latest research results and news
 
+**February 23, 2022, Pedagogical Video**: We created a video on explaining the essence of machine learning in a 
+pedagogical way with a medical classification example.\
+[Project](/cv/social_good_video/){: .btn--research}
+[Video](https://www.youtube.com/watch?v=5G4cmSh4s-4){: .btn--research}{:target="_blank"}
+[Blog](https://educaora.com/@MachineLearningDoc){: .btn--research}{:target="_blank"}
+
+
 **October 26, 2021, Accepted Paper**: Our submission to the NeurIPS workshop 
 [Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021)
 in ECG classification of myocardial infarctions was accepted as spotlight talk.\

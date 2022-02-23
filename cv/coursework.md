@@ -27,8 +27,9 @@ These courses are for the fulfilment of the currently pursing Ph.D. degree.
 - [Deep Learning, 6 Credits (WASP)](https://wasp-sweden.org/graduate-school/curriculum/courses/){:target="_blank"}
 - [Research Ethics, 2 Credits](http://www.it.uu.se/grad/courses/gc2021/etso20){:target="_blank"}
 - [The unreasonable effectiveness of overparameterized machine learning models, 3 Credits](http://www.it.uu.se/research/systems_and_control/education/2021/overparameterized-ml){:target="_blank"}
-- Ongoing [Using maths and computer science to do social good, 10 Credits](https://uppsala.instructure.com/courses/51420){:target="_blank"}
-- Ongoing [Convex Optimization, 8 Credits](https://uppsala.instructure.com/courses/52871){:target="_blank"}
+- Ongoing [Using maths and computer science to do social good, 10 Credits](https://uppsala.instructure.com/courses/51420){:target="_blank"}\
+[Project](/cv/social_good_video/){: .btn--research}
+- Ongoing [Convex Optimization, 7 + 3 Credits](https://uppsala.instructure.com/courses/52871){:target="_blank"}
 
 ---
 ## Master Level: TU Delft, The Netherlands
