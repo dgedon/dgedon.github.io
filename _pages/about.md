@@ -36,6 +36,10 @@ Since 2019 I am pursing my Ph.D. degree.
 ---
 ## Latest research results and news
 
+**March 25, 2022, Half-Time Seminar**: I presented my PhD half-time seminar. *Deep models for temporal data with applications to electrocardiography*.
+[Details](/seminars/2303_halftime/){: .btn--research}
+[Slides](/files/pdf/slides/220325_half_time_seminar_handout.pdf){: .btn--research}{:target="_blank"}
+
 **February 23, 2022, Pedagogical Video**: We created a video on explaining the essence of machine learning in a 
 pedagogical way with a medical classification example.\
 [Project](/cv/social_good_video/){: .btn--research}
