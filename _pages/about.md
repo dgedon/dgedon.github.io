@@ -36,6 +36,12 @@ Since 2019 I am pursing my Ph.D. degree.
 ---
 ## Latest research results and news
 
+**July 25, 2022, Workshop Participation**: Next week will participate in the *Deep Learning Theory Workshop and Summer School* at the Simons Institute for the Theory of Computing.
+[Workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
+
+**June 02, 2022, Master Defence - Theogene**: My master student Theogene Habineza defended his master thesis titled *Risk Prediction of Atrial Fibrillation Using the 12-lead ECG*.
+The reviewer was Thomas Schön.
+
 **March 25, 2022, Half-Time Seminar**: I presented my PhD half-time seminar. *Deep models for temporal data with applications to electrocardiography*.\
 [Details](/seminars/2303_halftime/){: .btn--research}
 [Slides](/files/pdf/slides/220325_half_time_seminar_handout.pdf){: .btn--research}{:target="_blank"}
@@ -53,3 +59,5 @@ in ECG classification of myocardial infarctions was accepted as spotlight talk.\
 [Project](/publications/2112_nstemiworkshop/){: .btn--research}
 [Paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
 [Slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}
+
+All news can be found [here](/news/)
