@@ -8,8 +8,10 @@ redirect_from:
   - /new
 ---
 
-**July 25, 2022, Workshop Participation**: Next week will participate in the *Deep Learning Theory Workshop and Summer School* at the Simons Institute for the Theory of Computing.
-[Workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
+**July 25, 2022, Workshop Participation**: Next week from 01.08-05.08 I will participate in the 
+[Deep Learning Theory Workshop and Summer School](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){:target="_blank"}
+at the Simons Institute for the Theory of Computing.
+This will be my first in-person event since the start of my PhD.
 
 **June 02, 2022, Master Defence - Theogene**: My master student Theogene Habineza defended his master thesis titled *Risk Prediction of Atrial Fibrillation Using the 12-lead ECG*.
 The reviewer was Thomas Schön.
@@ -26,7 +28,7 @@ pedagogical way with a medical classification example.\
 
 
 **October 26, 2021, Accepted Paper**: Our submission to the NeurIPS workshop 
-[Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021)
+[Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021){:target="_blank"}{:target="_blank"}
 in ECG classification of myocardial infarctions was accepted as spotlight talk.\
 [Project](/publications/2112_nstemiworkshop/){: .btn--research}
 [Paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
