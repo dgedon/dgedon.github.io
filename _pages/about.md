@@ -37,6 +37,7 @@ Since 2019 I am pursing my Ph.D. degree.
 ## Latest research results and news
 
 **July 25, 2022, Workshop Participation**: Next week will participate in the *Deep Learning Theory Workshop and Summer School* at the Simons Institute for the Theory of Computing.
+This will be my first in-person event since the start of my PhD.
 [Workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
 
 **June 02, 2022, Master Defence - Theogene**: My master student Theogene Habineza defended his master thesis titled *Risk Prediction of Atrial Fibrillation Using the 12-lead ECG*.
