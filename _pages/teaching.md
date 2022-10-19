@@ -13,7 +13,19 @@ This regards all courses at Uppsala University from 2019 on.
 
 ---
 ## Uppsala University, Sweden
-- Currently: [1RT700, Statistical Machine Learning](https://uppsala.instructure.com/courses/46077){:target="_blank"}, 
+- Upcoming: [1RT700, Statistical Machine Learning](https://uppsala.instructure.com/courses/65587){:target="_blank"}, 
+MSc level, Fall 2022\
+Teaching Assistant
+
+- Currently: [1RT705/1RT003, Advanced Probabilistic Machine Learning](https://uppsala.instructure.com/courses/71173){:target="_blank"}, 
+MSc level, Fall 2022\
+Teaching Assistant
+
+- [WASP Graduate School, Artificial Intelligence and Machine Learning](https://canvas.kth.se/courses/34244){:target="_blank"}, 
+PhD level, Spring 2022\
+Teaching Assistant
+
+- [1RT700, Statistical Machine Learning](https://uppsala.instructure.com/courses/46077){:target="_blank"}, 
 MSc level, Spring 2022\
 Teaching Assistant
 

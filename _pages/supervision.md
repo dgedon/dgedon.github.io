@@ -8,7 +8,7 @@ redirect_from:
   - /sv
 ---
 
-Currently I am supervising the following students:
+Currently, I am supervising the following students:
 
 [Philipp von Bachmann](https://www.researchgate.net/profile/Philipp-Von-Bachmann-2){:target="_blank"}, 2022\
 Exchange master student from Tübingen Univeristy.\
@@ -19,5 +19,5 @@ Previous students:
 
 [Theogene Habineza](https://www.linkedin.com/in/theogene-habineza-716a571b3/?originalSubdomain=se){:target="_blank"}, 2022\
 Co-supervising with Antônio H. Ribeiro.\
-Master thesis project: Prediction of risk factors for atrial fibrillation from ECG data
-
+Master thesis project: Deep Learning-Based Risk Prediction of Atrial Fibrillation Using the 12-lead ECG \
+[thesis](http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1684444&dswid=-7932){: .btn--research}{:target="_blank"}

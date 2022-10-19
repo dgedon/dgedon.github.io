@@ -11,27 +11,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in deep learning at [Uppsala University](https://www.uu.se/en){:target="_blank"} in Sweden. 
-My supervisors are [Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} (main),
+I am a Ph.D. candidate at [Uppsala University](https://www.uu.se/en){:target="_blank"}, Sweden advised by
+[Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} (main),
 [Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250){:target="_blank"} 
 and [Antônio H. Ribeiro](https://antonior92.github.io/){:target="_blank"}.
 I am fully supported by [WASP](https://wasp-sweden.org/){:target="_blank"}.
-My Ph.D. will be finished the summer of 2024.
 
-My research can be split within the field of deep learning in two areas. 
-The applied side revolves around medical problems, where we look at 
-[ECG](https://en.wikipedia.org/wiki/Electrocardiography){:target="_blank"} recordings and 
-try to improve the classification of medical conditions with deep learning based models. 
-The theoretical side of my research focuses on understanding how specific deep models works.
-Specifically, I am interested in unsupervised and self-supervised learning methods and 
-what they are learning from the given data. For details about the results, see my [publications](/publications).
+In my research I try to understand deep learning through theory and empirical observations.
+I am interested in
+- the double-descent phenomenon and the role of overparameterization
+- training of neural networks and its implicit bias
+- transfer learning and unsupervised pre-training
 
-I received my B.Eng. in Aerospace Engineering from the 
-[Baden-Württemberg Corporate State University](https://www.ravensburg.dhbw.de/startseite){:target="_blank"}, Germany in 2015 which was in
-cooperation with [Airbus](https://www.airbus.com/en/products-services/space){:target="_blank"}, Friedrichshafen in Germany.
-In 2019 I received my M.Sc. degree in Systems and Control from [TU Delft](https://www.tudelft.nl/){:target="_blank"} in the Netherlands.
-Between my B.Eng. and M.Sc. degree I have one year of industrial experience in the aerospace industry at Airbus Space.
-Since 2019 I am pursing my Ph.D. degree.
+On the applied side, my research uses deep models for the evaluation of electrocardiogram recordings to 
+a) help physicians with diagnosis and 2) explore the information within those recordings.
+
+---
+## Background
+- Summer 2024 will finish my Ph.D. at Uppsala University, Sweden
+- July 2019 received my M.Sc. in systems and control from TU Delft, the Netherlands
+- August 2015 received my B.Sc. in aerospace engineering from Baden-Württemberg Corporate State University, Germany
+- 1994 born.
+
 
 ---
 ## Latest research results and news
@@ -53,13 +54,5 @@ pedagogical way with a medical classification example.\
 [Project](/cv/social_good_video/){: .btn--research}
 [Video](https://www.youtube.com/watch?v=5G4cmSh4s-4){: .btn--research}{:target="_blank"}
 [Blog](https://educaora.com/@MachineLearningDoc){: .btn--research}{:target="_blank"}
-
-
-**October 26, 2021, Accepted Paper**: Our submission to the NeurIPS workshop 
-[Machine learning from ground truth: New medical imaging datasets for unsolved medical problems Workshop](https://www.nightingalescience.org/conferences-2021){:target="_blank"}{:target="_blank"}
-in ECG classification of myocardial infarctions was accepted as spotlight talk.\
-[Project](/publications/2112_nstemiworkshop/){: .btn--research}
-[Paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
-[Slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}
 
 All news can be found [here](/news/)
