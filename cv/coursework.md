@@ -30,8 +30,10 @@ These courses are for the fulfilment of the currently pursing Ph.D. degree.
 - [Using maths and computer science to do social good, 10 Credits](https://uppsala.instructure.com/courses/51420){:target="_blank"}\
 [Project](/cv/social_good_video/){: .btn--research}
 - [Convex Optimization, 7 + 3 Credits](https://uppsala.instructure.com/courses/52871){:target="_blank"}
-- Ongoing [Academic Teacher Training course 2, 7.5 Credits](https://uppsala.instructure.com/courses/71155){:target="_blank"}
+- [Academic Teacher Training course 2, 7.5 Credits](https://uppsala.instructure.com/courses/71155){:target="_blank"}
+[Project](/files/pdf/projects/22_STEM_education_review.pdf){: .btn--research} "Modern approaches to lectures in STEM education — a review"
 
+ 
 ---
 ## Master Level: TU Delft, The Netherlands
 These courses are in fulfillment with the *M.Sc. degree* in *Systems and Control*.
