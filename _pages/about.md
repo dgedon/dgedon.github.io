@@ -30,12 +30,16 @@ a) help physicians with diagnosis and 2) explore the information within those re
 ## Background
 - Summer 2024 will finish my Ph.D. at Uppsala University, Sweden
 - July 2019 received my M.Sc. in systems and control from TU Delft, the Netherlands
-- August 2015 received my B.Sc. in aerospace engineering from Baden-Württemberg Corporate State University, Germany
+- August 2015 received my B.Sc. in aerospace engineering from DHBW, Germany
 - 1994 born.
 
 
 ---
 ## Latest research results and news
+
+**November 16, 2022, DDLS Panel Discussion**: I was invited to a panel talk at the 
+[DDLS Annual Conference](https://www.scilifelab.se/event/ddls-annual-conference/){:target="_blank"} 
+at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data Driven Life Science.
 
 **July 25, 2022, Workshop Participation**: Next week from 01.08-05.08 I will participate in the 
 [Deep Learning Theory Workshop and Summer School](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){:target="_blank"}
