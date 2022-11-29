@@ -40,13 +40,13 @@ a) help physicians with diagnosis and 2) explore the information within those re
 **November 22, 2022, Invited Talk**: The bi-annual joint meeting from the Swedish and Danish societies for
 biopharmaceutical/medical statistics (DSBS, FMS), invited me to talk about our latest work in prediction models for 
 myocardial infarctions from ECGs.\
-[Program](/files/pdf/other/221122_FMS_DSBS_meeting_program.pdf){: .btn--research}{:target="_blank"}
-[Slides](/files/pdf/slides/221122_FMS_DSBS_meeting.pdf){: .btn--research}{:target="_blank"}
+[program](/files/pdf/other/221122_FMS_DSBS_meeting_program.pdf){: .btn--research}{:target="_blank"}
+[slides](/files/pdf/slides/221122_FMS_DSBS_meeting.pdf){: .btn--research}{:target="_blank"}
 
 **November 16, 2022, DDLS Panel Discussion**: I was invited to a panel talk at the  DDLS Annual Conference 
 at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data Driven Life Science.\
-[Program](/files/pdf/other/221116_DDLS_program.pdf){: .btn--research}{:target="_blank"}
-[DDLS Annual Conference](https://www.scilifelab.se/event/ddls-annual-conference/){: .btn--research}{:target="_blank"}
+[program](/files/pdf/other/221116_DDLS_program.pdf){: .btn--research}{:target="_blank"}
+[conference](https://www.scilifelab.se/event/ddls-annual-conference/){: .btn--research}{:target="_blank"}
 
 
 **November 15, 2022, Paper Accepted**: Our paper with the title
@@ -58,6 +58,6 @@ was accepted for publication at Scientific Reports.\
 "Deep Learning Theory Workshop and Summer School"
 at the Simons Institute for the Theory of Computing.
 This will be my first in-person event since the start of my PhD.\
-[Workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
+[workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
 
 All news can be found [here](/news/)
