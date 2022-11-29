@@ -8,7 +8,7 @@ author_profile: true
 ---
 ## Working manuscripts
 
-[Artificial Intelligence-Based ECG Diagnosis of Myocardial Infarction in High-Risk Emergency Department Patients](/publications/2202_nstemi/)\
+Artificial Intelligence-Based ECG Diagnosis of Myocardial Infarction in High-Risk Emergency Department Patients\
 *Stefan Gustafsson$^\ast$, **Daniel Gedon**$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin J. Holzmann, Thomas B. Schön, Johan Sundström*\
 Preprint, 2021\
 [Preprint](https://www.doi.org/10.2139/ssrn.3857655){: .btn--research}{:target="_blank"}
