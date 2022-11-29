@@ -8,6 +8,8 @@ redirect_from:
   - /new
 ---
 
+Back to page: [home](\home\).
+
 **November 22, 2022, Invited Talk**: The bi-annual joint meeting from the Swedish and Danish societies for
 biopharmaceutical/medical statistics (DSBS, FMS), invited me to talk about our latest work in prediction models for 
 myocardial infarctions from ECGs.\
@@ -52,3 +54,5 @@ was accepted as spotlight talk.\
 [Paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
 [Slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}
 [Workshop](https://www.nightingalescience.org/conferences-2021){: .btn--research}{:target="_blank"}
+
+Back to page: [home](\home\).

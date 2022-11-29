@@ -29,9 +29,9 @@ a) help physicians with diagnosis and 2) explore the information within those re
 ---
 ## Background
 - Summer 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;will finish my Ph.D. at Uppsala University, Sweden
-- July 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;received my M.Sc. in systems and control from TU Delft, the Netherlands
+- July 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;received my M.Sc. in systems and control from TU Delft, the Netherlands
 - August 2015 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;received my B.Sc. in aerospace engineering from DHBW, Germany
-- 1994 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;born
+- 1994 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;born
 
 
 ---
