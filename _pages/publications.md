@@ -67,7 +67,7 @@ Antônio H. Ribeiro, **DG**, Daniel Martins Teixeira, Manoel H. Ribeiro, Antonio
 
 Thomas Ott, Marc Hirth, Massimo Casasco, Simon Görries, **DG**, Alison Ponche,
 **PointingSat—high precision pointing error analysis with ESA PEET v1.0**
-*10th International ESA Conference on Guidance, Navigation \& Control Systems*, Salzburg, Austria, 2017\
+*10th International ESA Conference on Guidance, Navigation & Control Systems*, Salzburg, Austria, 2017\
 [paper](http://peet.estec.esa.int/files/ESA_GNC2017_PEET_Application_Scenario.pdf){: .btn--research}{:target="_blank"}
 
 ---
