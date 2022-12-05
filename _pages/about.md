@@ -23,8 +23,8 @@ I am interested in
 - training of neural networks and its implicit bias
 - transfer learning and unsupervised pre-training
 
-On the applied side, my research uses deep models for the evaluation of electrocardiogram recordings to 
-a) help physicians with diagnosis and 2) explore the information within those recordings.
+On the applied side, my research uses deep models for the evaluation of electrocardiogram (ECG) recordings to
+(1) help physicians with diagnosis and (2) explore the information within those recordings.
 
 ---
 ## Background
