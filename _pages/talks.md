@@ -16,7 +16,7 @@ redirect_from:
 ## Talks and Presentations
 
 November 22, 2022, **Deep Learning-based ECG Reading in the Emergency Department - Diagnosis of Myocardial Infarctions**, 
-*Joint DSBS/FMS Meeting*, Malmö.
+*Joint DSBS/FMS Meeting*, Malmö.\
 [slides](/files/pdf/slides/221122_FMS_DSBS_meeting.pdf){: .btn--research}{:target="_blank"}
 [program](/files/pdf/other/221122_FMS_DSBS_meeting_program.pdf){: .btn--research}{:target="_blank"}
 
