@@ -37,6 +37,11 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**December 05, 2022, Poster Presentation**: I presented a poster on our ongoing work in ECG-regression for electrolyte 
+prediction at the annual AI4Reserach workshop, Uppsala.\
+[poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}
+[workshop](https://mp.uu.se/en/web/info/kalendarium/-/detail/75966){: .btn--research}{:target="_blank"}
+
 **November 22, 2022, Invited Talk**: The bi-annual joint meeting from the Swedish and Danish societies for
 biopharmaceutical/medical statistics (DSBS, FMS), invited me to talk about our latest work in prediction models for 
 myocardial infarctions from ECGs.\
@@ -53,11 +58,5 @@ at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data
 "Development and validation of deep learning ECG-based prediction of myocardial infarction in emergency department patients"
 was accepted for publication at Scientific Reports.\
 [doi](https://doi.org/10.1038/s41598-022-24254-x){: .btn--research}{:target="_blank"}
-
-**July 25, 2022, Workshop Participation**: Next week from 01.08-05.08 I will participate in the 
-"Deep Learning Theory Workshop and Summer School"
-at the Simons Institute for the Theory of Computing.
-This will be my first in-person event since the start of my PhD.\
-[workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop){: .btn--research}{:target="_blank"}
 
 All news can be found [here](/news/)

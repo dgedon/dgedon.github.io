@@ -10,6 +10,11 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**December 05, 2022, Poster Presentation**: I presented a poster on our ongoing work in ECG-regression for electrolyte 
+prediction at the annual AI4Reserach workshop, Uppsala.\
+[poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}
+[workshop](https://mp.uu.se/en/web/info/kalendarium/-/detail/75966){: .btn--research}{:target="_blank"}
+
 **November 22, 2022, Invited Talk**: The bi-annual joint meeting from the Swedish and Danish societies for
 biopharmaceutical/medical statistics (DSBS, FMS), invited me to talk about our latest work in prediction models for 
 myocardial infarctions from ECGs.\
@@ -20,7 +25,6 @@ myocardial infarctions from ECGs.\
 at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data Driven Life Science.\
 [program](/files/pdf/other/221116_DDLS_program.pdf){: .btn--research}{:target="_blank"}
 [conference](https://www.scilifelab.se/event/ddls-annual-conference/){: .btn--research}{:target="_blank"}
-
 
 **November 15, 2022, Paper Accepted**: Our paper with the title
 "Development and validation of deep learning ECG-based prediction of myocardial infarction in emergency department patients"
