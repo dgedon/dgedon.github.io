@@ -37,6 +37,10 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego roughly from March to June for three months.
+During that time we will work on generalization of overparameterized models.\
+[Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
+
 **December 05, 2022, Poster Presentation**: I presented a poster on our ongoing work in ECG-regression for electrolyte 
 prediction at the annual AI4Reserach workshop, Uppsala.\
 [poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}
@@ -53,10 +57,5 @@ at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data
 [program](/files/pdf/other/221116_DDLS_program.pdf){: .btn--research}{:target="_blank"}
 [conference](https://www.scilifelab.se/event/ddls-annual-conference/){: .btn--research}{:target="_blank"}
 
-
-**November 15, 2022, Paper Accepted**: Our paper with the title
-"Development and validation of deep learning ECG-based prediction of myocardial infarction in emergency department patients"
-was accepted for publication at Scientific Reports.\
-[doi](https://doi.org/10.1038/s41598-022-24254-x){: .btn--research}{:target="_blank"}
 
 All news can be found [here](/news/)

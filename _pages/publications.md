@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 ---
+## Pre-prints
+Philipp Von Bachmann, **DG*, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
+**ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
+*arXiv:2212.13890 [eess.SP]*,
+2022
+[arxiv](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
+
 ## Peer-reviewed publications
 
 Stefan Gustafsson$^\ast$, **DG**$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin J. Holzmann, Thomas B. Schön, Johan Sundström,

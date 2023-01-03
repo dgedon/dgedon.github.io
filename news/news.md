@@ -10,6 +10,10 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego roughly from March to June for three months.
+During that time we will work on generalization of overparameterized models.\
+[Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
+
 **December 05, 2022, Poster Presentation**: I presented a poster on our ongoing work in ECG-regression for electrolyte 
 prediction at the annual AI4Reserach workshop, Uppsala.\
 [poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}
