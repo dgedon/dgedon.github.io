@@ -10,8 +10,8 @@ redirect_from:
   - /lebenslauf
 ---
 
-<!--- <iframe src="/files/pdf/cv/CV_DanielGedon_2211.pdf" width="50%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-My CV can be viewed and downloaded [here](/files/pdf/cv/CV_DanielGedon_2211.pdf) (latest update 11/22).
+<!--- <iframe src="/files/pdf/cv/CV_DanielGedon_2301.pdf" width="50%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+My CV can be viewed and downloaded [here](/files/pdf/cv/CV_DanielGedon_2211.pdf) (latest update Jaunary 2023).
 
 ## Coursework
 
