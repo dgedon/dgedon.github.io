@@ -61,6 +61,10 @@ Master thesis defence, TU Delft, The Netherlands.\
 ---
 ## Posters
 
+January 11, 20223, **No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
+*WASP winter conference*, Norrköping, Sweden.\
+[poster](/files/pdf/posters/230111_PCA_regression_WASP_winter.pdf){: .btn--research}
+
 December 05, 2022, **ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**, 
 *AI4Research annual workshop*, Uppsala University, Sweden.\
 [poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}

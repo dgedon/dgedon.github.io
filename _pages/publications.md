@@ -7,6 +7,23 @@ author_profile: true
 
 ---
 ## Pre-prints
+Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
+**Deep networks for system identification: a Survey**,
+*arXiv:2301.12832*,
+2023.\
+[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
+
+
+Carl Jidling, **DG**, Thomas B. Schön, Claudia Di Lorenzo Oliveira, Clareci Silva Cardoso, Ariela Mota Ferreira,
+Luana Giatti, Sandhi Maria Barreto, Ester C. Sabino, Antonio L. P. Ribeiro, Antônio H. Ribeiro,
+**Screening for Chagas disease from the electrocardiogram using a deep neural network**,
+*medRxiv, doi: 10.1101/2023.01.24.23284930*,
+2023.\
+[medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
+[code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7371624#.Y9jOs9LMIUG){: .btn--research}{:target="_blank"}
+
+
 Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
 **ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
 *arXiv:2212.13890*,
