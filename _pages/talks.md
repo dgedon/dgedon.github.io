@@ -69,6 +69,7 @@ December 05, 2022, **ECG-Based Electrolyte Prediction: Evaluating Regression and
 *AI4Research annual workshop*, Uppsala University, Sweden.\
 [poster](/files/pdf/posters/221205_ECG_regression_AI4R_poster.pdf){: .btn--research}
 [workshop](https://mp.uu.se/en/web/info/kalendarium/-/detail/75966){: .btn--research}{:target="_blank"}
+[paper](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
 
 December 02, 2021, **ResNet-based ECG Diagnosis of Myocardial Infarction in the Emergency Department**, 
 *AI4Research annual workshop*, Uppsala University, Sweden.\

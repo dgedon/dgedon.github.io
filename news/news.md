@@ -10,7 +10,7 @@ redirect_from:
 
 Back to page: [home](\home\).
 
-**January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego roughly from March to June for three months.
+**January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego from 1st of March to 27th of May.
 During that time we will work on generalization of overparameterized models.\
 [Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
 
