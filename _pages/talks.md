@@ -15,6 +15,12 @@ redirect_from:
 ---
 ## Talks and Presentations
 
+March 06, 2023, **No double descent in PCA: Training and pre-training in high dimensions**, 
+*Belkin Lab group meeting*, San Diego, USA.\
+[slides](/files/pdf/slides/230306_belkinlab_group_meeting.pdf){: .btn--research}{:target="_blank"}
+[Belkin Lab](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
+
+
 November 22, 2022, **Deep Learning-based ECG Reading in the Emergency Department - Diagnosis of Myocardial Infarctions**, 
 *Joint DSBS/FMS Meeting*, Malmö.\
 [slides](/files/pdf/slides/221122_FMS_DSBS_meeting.pdf){: .btn--research}{:target="_blank"}
