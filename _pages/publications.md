@@ -7,6 +7,12 @@ author_profile: true
 
 ---
 ## Pre-prints
+**DG**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön,
+**Invertible Kernel PCA with Random Fourier Features**,
+*arXiv:2303.05043*,
+2023.\
+[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
+
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
 **Deep networks for system identification: a Survey**,
 *arXiv:2301.12832*,
