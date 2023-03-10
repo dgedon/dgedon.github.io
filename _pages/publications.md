@@ -12,6 +12,7 @@ author_profile: true
 *arXiv:2303.05043*,
 2023.\
 [arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
 
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
 **Deep networks for system identification: a Survey**,
