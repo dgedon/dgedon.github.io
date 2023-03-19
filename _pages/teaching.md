@@ -14,7 +14,13 @@ In all courses below I was acting as teaching assistant.
 
 ---
 ## Uppsala University, Sweden
-- Currently: Statistical Machine Learning, 1RT700,
+- Upcoming: Advanced Probabilistic Machine Learning, 1RT705/1RT003,
+MSc level, Fall 2023 
+
+- Upcoming: Empirical Modelling, 1RT890,
+MSc level, Fall 2023
+
+- Statistical Machine Learning, 1RT700,
 MSc level, Fall 2022, [Syllabus](https://uppsala.instructure.com/courses/65587){:target="_blank"}
 
 - Advanced Probabilistic Machine Learning, 1RT705/1RT003,
