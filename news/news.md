@@ -10,6 +10,13 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**May 11, 2023, Accepted Paper**: Our paper on invertible kernel PCA got accepted at IEEE Signal Processing Letters.
+We present a simple but effective method to invert the kernel PCA operations in an invertible subdomain which is 
+sufficient for reconstruction in many scenarios.\
+[doi](https://ieeexplore.ieee.org/document/10123002/){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
+
 **January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego from 1st of March to 27th of May.
 During that time we will work on generalization of overparameterized models.\
 [Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}

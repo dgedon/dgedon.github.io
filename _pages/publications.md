@@ -7,14 +7,6 @@ author_profile: true
 
 ---
 ## Pre-prints
-**Invertible Kernel PCA with Random Fourier Features**,
-**DG**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön,
-*arXiv:2303.05043*,
-2023.\
-[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
-[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
-
-
 **Deep networks for system identification: a Survey**,
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
 *arXiv:2301.12832*,
@@ -41,6 +33,14 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 
 ---
 ## Peer-reviewed publications
+
+**Invertible Kernel PCA with Random Fourier Features**,
+**DG**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön,
+*IEEE Signal Processing Letters*,
+2023.\
+[doi](https://ieeexplore.ieee.org/document/10123002/){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
 
 **Development and validation of deep learning ECG-based prediction of myocardial infarction in emergency department patients**,
 Stefan Gustafsson$^\ast$, **DG**$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin J. Holzmann, Thomas B. Schön, Johan Sundström,

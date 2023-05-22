@@ -37,6 +37,13 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**May 11, 2023, Accepted Paper**: Our paper on invertible kernel PCA got accepted at IEEE Signal Processing Letters.
+We present a simple but effective method to invert the kernel PCA operations in an invertible subdomain which is 
+sufficient for reconstruction in many scenarios.\
+[doi](https://ieeexplore.ieee.org/document/10123002/){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
+
 **January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego from 1st of March to 27th of May.
 During that time we will work on generalization of overparameterized models.\
 [Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
@@ -51,11 +58,6 @@ biopharmaceutical/medical statistics (DSBS, FMS), invited me to talk about our l
 myocardial infarctions from ECGs.\
 [program](/files/pdf/other/221122_FMS_DSBS_meeting_program.pdf){: .btn--research}{:target="_blank"}
 [slides](/files/pdf/slides/221122_FMS_DSBS_meeting.pdf){: .btn--research}{:target="_blank"}
-
-**November 16, 2022, DDLS Panel Discussion**: I was invited to a panel talk at the  DDLS Annual Conference 
-at SciLifeLab in Stockholm. The panel discussion has the topic: Training in Data Driven Life Science.\
-[program](/files/pdf/other/221116_DDLS_program.pdf){: .btn--research}{:target="_blank"}
-[conference](https://www.scilifelab.se/event/ddls-annual-conference/){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)
