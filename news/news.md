@@ -10,6 +10,18 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**July 4, 2023, Accepted Paper**: Another work ours using ECGs + deep learning got accepted at PLOS Neglected Tropical
+Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection\
+[doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
+[medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
+[code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7371624#.Y9jOs9LMIUG){: .btn--research}{:target="_blank"}
+
+**June 28, 2023, Invited Talk**: A talk on our preprint survey paper of deep networks for system identification got 
+accepted at the 2023 ERNSI workshop in Stockholm. We got a special 1h presentation slot.\
+[workshop](https://www.kth.se/ernsi2023){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
+
 **May 11, 2023, Accepted Paper**: Our paper on invertible kernel PCA got accepted at IEEE Signal Processing Letters.
 We present a simple but effective method to invert the kernel PCA operations in an invertible subdomain which is 
 sufficient for reconstruction in many scenarios.\

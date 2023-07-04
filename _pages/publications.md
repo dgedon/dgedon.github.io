@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+*Author*$^\ast$ indicate equal contributions.
 
 ---
 ## Pre-prints
@@ -12,16 +13,6 @@ Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribe
 *arXiv:2301.12832*,
 2023.\
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
-
-
-**Screening for Chagas disease from the electrocardiogram using a deep neural network**,
-Carl Jidling, **DG**, Thomas B. Schön, Claudia Di Lorenzo Oliveira, Clareci Silva Cardoso, Ariela Mota Ferreira,
-Luana Giatti, Sandhi Maria Barreto, Ester C. Sabino, Antonio L. P. Ribeiro, Antônio H. Ribeiro,
-*medRxiv, doi: 10.1101/2023.01.24.23284930*,
-2023.\
-[medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
-[code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
-[models](https://zenodo.org/record/7371624#.Y9jOs9LMIUG){: .btn--research}{:target="_blank"}
 
 
 **ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
@@ -33,6 +24,16 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 
 ---
 ## Peer-reviewed publications
+
+**Screening for Chagas disease from the electrocardiogram using a deep neural network**,
+Carl Jidling, **DG**, Thomas B. Schön, Claudia Di Lorenzo Oliveira, Clareci Silva Cardoso, Ariela Mota Ferreira,
+Luana Giatti, Sandhi Maria Barreto, Ester C. Sabino, Antonio L. P. Ribeiro, Antônio H. Ribeiro,
+*PLOS Neglected Tropical Diseases*, 
+2023.\
+[doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
+[medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
+[code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7371624#.Y9jOs9LMIUG){: .btn--research}{:target="_blank"}
 
 **Invertible Kernel PCA with Random Fourier Features**,
 **DG**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön,
@@ -103,6 +104,3 @@ Antônio H. Ribeiro, **DG**, Daniel Martins Teixeira, Manoel H. Ribeiro, Antonio
 Thomas Ott, Marc Hirth, Massimo Casasco, Simon Görries, **DG**, Alison Ponche,
 *10th International ESA Conference on Guidance, Navigation & Control Systems*, Salzburg, Austria, 2017.\
 [paper](http://peet.estec.esa.int/files/ESA_GNC2017_PEET_Application_Scenario.pdf){: .btn--research}{:target="_blank"}
-
----
-Authors with equal contributions are marked with *Author*$^\ast$.

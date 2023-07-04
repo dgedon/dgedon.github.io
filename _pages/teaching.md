@@ -20,6 +20,9 @@ MSc level, Fall 2023.
 - Upcoming: Empirical Modelling, 1RT890,
 MSc level, Fall 2023.
 
+- Artificial Intelligence and Machine Learning, WASP Graduate School,
+PhD level, Spring 2023, [Syllabus](https://canvas.kth.se/courses/42324){:target="_blank"}
+
 - Statistical Machine Learning, 1RT700,
 MSc level, Fall 2022, [Syllabus](https://uppsala.instructure.com/courses/65587){:target="_blank"}
 
