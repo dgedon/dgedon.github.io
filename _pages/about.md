@@ -29,7 +29,7 @@ On the applied side, my research uses deep models for the evaluation of electroc
 
 ---
 ## Background
-- Fall 2024: Post-doc, in your group? [Contact me](mailto:daniel.gedon@it.uu.se)! :relaxed:  
+- Fall 2024: Post-doc, in your group? [Contact me](mailto:daniel.gedon@it.uu.se)! :)  
 - Summer 2024: will finish my Ph.D. at Uppsala University, Sweden.
 - 2019: M.Sc. in systems and control from TU Delft, the Netherlands.
 - 2015: B.Sc. in aerospace engineering from DHBW, Germany.
