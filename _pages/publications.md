@@ -7,7 +7,7 @@ author_profile: true
 *Author*$^\ast$ indicate equal contributions.
 
 ---
-## Pre-prints
+## Pre-prints and working manuscripts
 **Deep networks for system identification: a Survey**,
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
 *arXiv:2301.12832*,
@@ -20,6 +20,13 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 *arXiv:2212.13890*,
 2022.\
 [arXiv](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
+
+
+**No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
+**DG**, Antônio H. Ribeiro, Thomas B. Schön
+*OpenReview:ieWqvOiKgz2*, 
+2022.\
+[OpenReview](https://openreview.net/forum?id=ieWqvOiKgz2){: .btn--research}{:target="_blank"}
 
 
 ---
