@@ -15,18 +15,18 @@ Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribe
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
 
+**No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
+**DG**, Antônio H. Ribeiro, Thomas B. Schön,
+*OpenReview:ieWqvOiKgz2*, 
+2022.\
+[OpenReview](https://openreview.net/forum?id=ieWqvOiKgz2){: .btn--research}{:target="_blank"}
+
+
 **ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
 Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
 *arXiv:2212.13890*,
 2022.\
 [arXiv](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
-
-
-**No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
-**DG**, Antônio H. Ribeiro, Thomas B. Schön
-*OpenReview:ieWqvOiKgz2*, 
-2022.\
-[OpenReview](https://openreview.net/forum?id=ieWqvOiKgz2){: .btn--research}{:target="_blank"}
 
 
 ---

@@ -14,14 +14,14 @@ In all courses below I was acting as teaching assistant.
 
 ---
 ## Uppsala University, Sweden
-- Upcoming: Advanced Probabilistic Machine Learning, 1RT705/1RT003,
-MSc level, Fall 2023. 
+- Advanced Probabilistic Machine Learning, 1RT705/1RT003,
+MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/85923){:target="_blank"}
 
-- Upcoming: Empirical Modelling, 1RT890,
-MSc level, Fall 2023.
+- Empirical Modelling and System Identification, 1RT890/1RT885, 
+- MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/87002){:target="_blank"}
 
 - Artificial Intelligence and Machine Learning, WASP Graduate School,
-PhD level, Spring 2023, [Syllabus](https://canvas.kth.se/courses/42324){:target="_blank"}
+PhD level, Spring 2023.
 
 - Statistical Machine Learning, 1RT700,
 MSc level, Fall 2022, [Syllabus](https://uppsala.instructure.com/courses/65587){:target="_blank"}
