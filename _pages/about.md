@@ -19,13 +19,13 @@ I am fully supported by [WASP](https://wasp-sweden.org/){:target="_blank"}.
 
 In my research I try to understand deep learning through theory and empirical observations.
 I am interested in
-- low-dimensional representations of the data and how to explicitly make use of them,
-- training of neural networks and its implicit bias,
-- transfer learning and unsupervised pre-training,
-- the role of overparameterization.
+- low-dimensional data representation learning,
+- neural networks dynamics and implicit biases,
+- the role of overparameterization,
+- unsupervised representation learning.
 
 On the applied side, my research uses deep models for the evaluation of electrocardiogram (ECG) recordings to
-(1) help physicians with diagnosis and (2) explore the information within those recordings.
+(1) support physicians with diagnosis and (2) explore the information within those recordings.
 
 ---
 ## Background
