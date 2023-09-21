@@ -18,7 +18,7 @@ In all courses below I was acting as teaching assistant.
 MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/85923){:target="_blank"}
 
 - Empirical Modelling and System Identification, 1RT890/1RT885, 
-- MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/87002){:target="_blank"}
+MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/87002){:target="_blank"}
 
 - Artificial Intelligence and Machine Learning, WASP Graduate School,
 PhD level, Spring 2023.

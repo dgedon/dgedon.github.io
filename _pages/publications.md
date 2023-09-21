@@ -10,7 +10,7 @@ author_profile: true
 ## Pre-prints and working manuscripts
 **Deep networks for system identification: a Survey**,
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
-*arXiv:2301.12832*,
+*arXiv:2301.12832*, provisionally accepted at Automatica,
 2023.\
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
