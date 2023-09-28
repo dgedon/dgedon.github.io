@@ -15,12 +15,12 @@ redirect_from:
 ---
 ## Talks and Presentations
 
-### Upcoming
+Setember 26, 2023, **Deep Networks for System Identification: A Survey**,
+*ERNSI Workshop*, Stockholm.\
+[slides](/files/pdf/slides/230926_ernsi.pdf){: .btn--research}
+[workshop](https://www.kth.se/ernsi2023){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
-Setember 25, 2023, **Deep Networks for System Identification: A Survey**,
-*ERNSI Workshop*, Stockholm.\   
-
-### Past
 
 March 06, 2023, **No double descent in PCA: Training and pre-training in high dimensions**, 
 *Belkin Lab group meeting*, San Diego, USA.\

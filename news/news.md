@@ -19,6 +19,7 @@ Diseases. We show that deep learning models can be used to detect Chagas disease
 
 **June 28, 2023, Invited Talk**: A talk on our preprint survey paper of deep networks for system identification got 
 accepted at the 2023 ERNSI workshop in Stockholm. We got a special 1h presentation slot.\
+[slides](/files/pdf/slides/230926_ernsi.pdf){: .btn--research}
 [workshop](https://www.kth.se/ernsi2023){: .btn--research}{:target="_blank"}
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
