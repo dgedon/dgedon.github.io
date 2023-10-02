@@ -32,6 +32,15 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 ---
 ## Peer-reviewed publications
 
+**End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
+Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön, 
+*Journal of Electrocardiology*,
+2023.\
+[doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2309.16335){: .btn--research}{:target="_blank"}
+[code](https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7038219#.Y9PhldLMJNw){: .btn--research}{:target="_blank"}
+
 **Screening for Chagas disease from the electrocardiogram using a deep neural network**,
 Carl Jidling, **DG**, Thomas B. Schön, Claudia Di Lorenzo Oliveira, Clareci Silva Cardoso, Ariela Mota Ferreira,
 Luana Giatti, Sandhi Maria Barreto, Ester C. Sabino, Antonio L. P. Ribeiro, Antônio H. Ribeiro,

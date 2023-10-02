@@ -39,8 +39,15 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**September 30, 2023, Accepted Paper**: Our MSc students work on ECG-based risk prediction was published at
+the Journal of Electrocardiography. Congrats, Theogene!\
+[doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2309.16335){: .btn--research}{:target="_blank"}
+[code](https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7038219#.Y9PhldLMJNw){: .btn--research}{:target="_blank"}
+
 **July 4, 2023, Accepted Paper**: Another work ours using ECGs + deep learning got accepted at PLOS Neglected Tropical
-Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection\
+Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection.\
 [doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
 [medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
 [code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
@@ -58,10 +65,6 @@ sufficient for reconstruction in many scenarios.\
 [doi](https://ieeexplore.ieee.org/document/10123002/){: .btn--research}{:target="_blank"}
 [arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
-
-**January 03, 2023, Research Visit**: I will visit Misha Belkin's group at UC San Diego from 1st of March to 27th of May.
-During that time we will work on generalization of overparameterized models.\
-[Misha Belkin](http://misha.belkin-wang.org/){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)

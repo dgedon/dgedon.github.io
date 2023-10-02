@@ -10,8 +10,15 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**September 30, 2023, Accepted Paper**: Our MSc students work on ECG-based risk prediction was published at
+the Journal of Electrocardiography. Congrats, Theogene!\
+[doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2309.16335){: .btn--research}{:target="_blank"}
+[code](https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/record/7038219#.Y9PhldLMJNw){: .btn--research}{:target="_blank"}
+
 **July 4, 2023, Accepted Paper**: Another work ours using ECGs + deep learning got accepted at PLOS Neglected Tropical
-Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection\
+Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection.\
 [doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
 [medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
 [code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
