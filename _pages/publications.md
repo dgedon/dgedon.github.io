@@ -32,6 +32,12 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 ---
 ## Peer-reviewed publications
 
+**On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
+**DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
+*UniReps: the First Workshop on Unifying Representations in Neural Models* Workshop at NeurIPS, 2023.\
+[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}
+[workshop](https://unireps.org/){: .btn--research}
+
 **End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
 Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön, 
 *Journal of Electrocardiology*,

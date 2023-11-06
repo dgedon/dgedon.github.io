@@ -10,6 +10,12 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**November 6, 2023, Accepted Paper**: The first work from my research visit at Misha Belkins Lab at UCSD was accepted 
+at the UniReps workshop at NeurIPS. We studied the emergence of similar representations in Recursive Feature Machines 
+and in GPs with Automatic Relevance Determination.\
+[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}
+[workshop](https://unireps.org/){: .btn--research}
+
 **September 30, 2023, Accepted Paper**: Our MSc students work on ECG-based risk prediction was published at
 the Journal of Electrocardiography. Congrats, Theogene!\
 [doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}

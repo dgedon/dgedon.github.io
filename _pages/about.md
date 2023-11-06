@@ -39,6 +39,12 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**November 6, 2023, Accepted Paper**: The first work from my research visit at Misha Belkins Lab at UCSD was accepted 
+at the UniReps workshop at NeurIPS. We studied the emergence of similar representations in Recursive Feature Machines 
+and in GPs with Automatic Relevance Determination.\
+[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}
+[workshop](https://unireps.org/){: .btn--research}
+
 **September 30, 2023, Accepted Paper**: Our MSc students work on ECG-based risk prediction was published at
 the Journal of Electrocardiography. Congrats, Theogene!\
 [doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
@@ -58,13 +64,6 @@ accepted at the 2023 European Research Network System Identification (ERNSI) wor
 We got a special 1h presentation slot.\
 [workshop](https://www.kth.se/ernsi2023){: .btn--research}{:target="_blank"}
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
-
-**May 11, 2023, Accepted Paper**: Our paper on invertible kernel PCA got accepted at IEEE Signal Processing Letters.
-We present a simple but effective method to invert the kernel PCA operations in an invertible subdomain which is 
-sufficient for reconstruction in many scenarios.\
-[doi](https://ieeexplore.ieee.org/document/10123002/){: .btn--research}{:target="_blank"}
-[arXiv](https://arxiv.org/abs/2303.05043){: .btn--research}{:target="_blank"}
-[code](https://github.com/dgedon/invertible_kernel_PCA){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)
