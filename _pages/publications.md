@@ -35,8 +35,8 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
 *UniReps: the First Workshop on Unifying Representations in Neural Models* Workshop at NeurIPS, 2023.\
-[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}
-[workshop](https://unireps.org/){: .btn--research}
+[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
+[workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
 
 **End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
 Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön, 
@@ -74,18 +74,18 @@ Stefan Gustafsson$^\ast$, **DG**$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin
 **ResNet-based ECG Diagnosis of Myocardial Infarction in the Emergency Department**,
 **DG**$^\ast$, Stefan Gustafsson$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin J. Holzmann, Thomas B. Schön, Johan Sundström,
 *Machine learning from ground truth: New medical imaging datasets for unsolved medical problems* Workshop at NeurIPS, 2021 (Online), Spotlight talk.\
-[paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}
-[poster](/files/pdf/posters/211202_NSTEMI_AI4R_poster.pdf){: .btn--research}
-[slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}
-[workshop](https://www.nightingalescience.org/conferences-2021){: .btn--research}
+[paper](/files/pdf/publications/21_NSTEMI_AI_Health_workshop.pdf){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/211202_NSTEMI_AI4R_poster.pdf){: .btn--research}{:target="_blank"}
+[slides](/files/pdf/slides/211214_neurips_gedon_handout.pdf){: .btn--research}{:target="_blank"}
+[workshop](https://www.nightingalescience.org/conferences-2021){: .btn--research}{:target="_blank"}
 
 
 **First Steps Towards Self-Supervised Pretraining of the 12-Lead ECG**,
 **DG**, Antônio H. Ribeiro, Niklas Wahlström, Thomas B. Schön,
 *Computing in Cardiology (CinC)*, 2021 (Online).\
 [doi](https://www.doi.org/10.23919/CinC53138.2021.9662748){: .btn--research}{:target="_blank"}
-[slides](/files/pdf/slides/210915_ssl_ecg_handout.pdf){: .btn--research}
-[video (10 min)](https://www.dropbox.com/s/bvpi2h7qzkg5kod/21_cinc_ssl_ecg.mp4?dl=0){: .btn--research}
+[slides](/files/pdf/slides/210915_ssl_ecg_handout.pdf){: .btn--research}{:target="_blank"}
+[video (10 min)](https://www.dropbox.com/s/bvpi2h7qzkg5kod/21_cinc_ssl_ecg.mp4?dl=0){: .btn--research}{:target="_blank"}
 
 
 **Deep State Space Models for Nonlinear System Identification**,
@@ -94,7 +94,7 @@ Stefan Gustafsson$^\ast$, **DG**$^\ast$, Erik Lampa, Antônio H. Ribeiro, Martin
 [doi](https://doi.org/10.1016/j.ifacol.2021.08.406){: .btn--research}{:target="_blank"}
 [arXiv](https://arxiv.org/abs/2003.14162){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/DeepSSM_SysID){: .btn--research}{:target="_blank"}
-[slides](/files/pdf/slides/210715_sysid_daniel_handout.pdf){: .btn--research}
+[slides](/files/pdf/slides/210715_sysid_daniel_handout.pdf){: .btn--research}{:target="_blank"}
 
 
 **Automatic 12-lead ECG classification using a convolutional network ensemble**,
@@ -103,7 +103,7 @@ Antônio H. Ribeiro, **DG**, Daniel Martins Teixeira, Manoel H. Ribeiro, Antonio
 [doi](https://www.doi.org/10.22489/CinC.2020.130){: .btn--research}{:target="_blank"}
 [ieee](https://ieeexplore.ieee.org/document/9344356){: .btn--research}{:target="_blank"}
 [code](https://github.com/antonior92/physionet-12ecg-classification){: .btn--research}{:target="_blank"}
-[slides](/files/pdf/slides/200915_CinC.pdf){: .btn--research}
+[slides](/files/pdf/slides/200915_CinC.pdf){: .btn--research}{:target="_blank"}
 
 
 **Tensor Network Kalman Filter for LTI Systems**,
@@ -112,14 +112,14 @@ Antônio H. Ribeiro, **DG**, Daniel Martins Teixeira, Manoel H. Ribeiro, Antonio
 [doi](https://doi.org/10.23919/EUSIPCO.2019.8902976){: .btn--research}{:target="_blank"}
 [ieee](https://ieeexplore.ieee.org/abstract/document/8902976){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/Tensor-Kalman-Filter){: .btn--research}{:target="_blank"}
-[slides](/files/pdf/slides/190904_EUSIPCO_DanielGedon_handout.pdf){: .btn--research}
+[slides](/files/pdf/slides/190904_EUSIPCO_DanielGedon_handout.pdf){: .btn--research}{:target="_blank"}
 
 
 **Tensor Network Kalman Filter for Large-Scale MIMO Systems: With Application to Adaptive Optics**,
 **DG**,
 *Master Thesis*, TU Delft, the Netherlands, 2019.\
 [thesis](https://repository.tudelft.nl/islandora/object/uuid:2188c114-05ed-4fe6-9603-85de71e9bffd){: .btn--research}{:target="_blank"}
-[slides](/files/pdf/slides/190705_MasterThesis_DanielGedon_handout.pdf){: .btn--research}
+[slides](/files/pdf/slides/190705_MasterThesis_DanielGedon_handout.pdf){: .btn--research}{:target="_blank"}
 
 
 **PointingSat—high precision pointing error analysis with ESA PEET v1.0**
