@@ -35,7 +35,8 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
 *UniReps: the First Workshop on Unifying Representations in Neural Models* Workshop at NeurIPS, 2023.\
-[paper](https://openreview.net/pdf?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
+[OpenReview](https://openreview.net/forum?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
+[NeurIPS23](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
 [workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
 
 **End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
