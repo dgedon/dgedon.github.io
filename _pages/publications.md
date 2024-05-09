@@ -15,13 +15,6 @@ Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribe
 [arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
 
-**No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
-**DG**, Antônio H. Ribeiro, Thomas B. Schön,
-*OpenReview:ieWqvOiKgz2*, 
-2022.\
-[OpenReview](https://openreview.net/forum?id=ieWqvOiKgz2){: .btn--research}{:target="_blank"}
-
-
 **ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
 Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
 *arXiv:2212.13890*,
@@ -31,6 +24,14 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 
 ---
 ## Peer-reviewed publications
+
+**No Double Descent in Principal Component Regression: A High-Dimensional Analysis**,
+**DG**, Antônio H. Ribeiro, Thomas B. Schön,
+*ICML*, 2024.
+
+**Uncertainty Estimation with Recursive Feature Machines**,
+**DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin,
+*UAI*, 2024.
 
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 

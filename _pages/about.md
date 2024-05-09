@@ -39,6 +39,14 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**May 2, 024, Accepted Paper**: Our high-dimensional analysis paper got accepted to ICML. We study the combination of 
+Principal Component Analysis (PCA) with linear regression on data from a spiked covariance model to provide precise
+asymptotic guarantees for the risk.
+
+**April 26, 2024, Accepted Paper**: Our work on integrating Recursive Feature Machines (RFMs) into Gaussian Processes 
+was accepted at UAI. We show that the resulting GP-RFM is a strong alternative to existing SOTA methods for tabular 
+regression problems.
+
 **November 6, 2023, Accepted Paper**: The first work from my research visit at Misha Belkins Lab at UCSD was accepted 
 at the UniReps workshop at NeurIPS. We studied the emergence of similar representations in Recursive Feature Machines 
 and in GPs with Automatic Relevance Determination.\
@@ -52,19 +60,6 @@ the Journal of Electrocardiography. Congrats, Theogene!\
 [arXiv](https://arxiv.org/abs/2309.16335){: .btn--research}{:target="_blank"}
 [code](https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn){: .btn--research}{:target="_blank"}
 [models](https://zenodo.org/record/7038219#.Y9PhldLMJNw){: .btn--research}{:target="_blank"}
-
-**July 4, 2023, Accepted Paper**: Another work ours using ECGs + deep learning got accepted at PLOS Neglected Tropical
-Diseases. We show that deep learning models can be used to detect Chagas disease from ECGs, aiding in early detection.\
-[doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
-[medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}
-[code](https://github.com/carji475/ecg-chagas){: .btn--research}{:target="_blank"}
-[models](https://zenodo.org/record/7371624#.Y9jOs9LMIUG){: .btn--research}{:target="_blank"}
-
-**June 28, 2023, Invited Talk**: A talk on our preprint survey paper of deep networks for system identification got 
-accepted at the 2023 European Research Network System Identification (ERNSI) workshop in Stockholm. 
-We got a special 1h presentation slot.\
-[workshop](https://www.kth.se/ernsi2023){: .btn--research}{:target="_blank"}
-[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)

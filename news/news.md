@@ -10,6 +10,14 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**May 2, 024, Accepted Paper**: Our high-dimensional analysis paper got accepted to ICML. We study the combination of 
+Principal Component Analysis (PCA) with linear regression on data from a spiked covariance model to provide precise
+asymptotic guarantees for the risk.
+
+**April 26, 2024, Accepted Paper**: Our work on integrating Recursive Feature Machines (RFMs) into Gaussian Processes 
+was accepted at UAI. We show that the resulting GP-RFM is a strong alternative to existing SOTA methods for tabular 
+regression problems.
+
 **November 6, 2023, Accepted Paper**: The first work from my research visit at Misha Belkins Lab at UCSD was accepted 
 at the UniReps workshop at NeurIPS. We studied the emergence of similar representations in Recursive Feature Machines 
 and in GPs with Automatic Relevance Determination.\
