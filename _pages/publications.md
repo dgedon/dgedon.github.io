@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-*Author*$^\ast$ indicate equal contributions.
 
 ---
 ## Pre-prints and working manuscripts
@@ -27,11 +26,18 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 
 **No Double Descent in Principal Component Regression: A High-Dimensional Analysis**,
 **DG**, Antônio H. Ribeiro, Thomas B. Schön,
-*ICML*, 2024.
+*ICML*, 2024.\
+[OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
+[ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240722_ICML24_PCR_spiked_covariancer.pdf){: .btn--research}{:target="_blank"}
 
 **Uncertainty Estimation with Recursive Feature Machines**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin,
-*UAI*, 2024.
+*UAI*, 2024.\
+[OpenReview](https://openreview.net/forum?id=TBKLXswKnO){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/rfm_uncertainty){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240718_UAI24_RFM_uncertainty.pdf){: .btn--research}{:target="_blank"}
 
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
@@ -39,6 +45,7 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 [OpenReview](https://openreview.net/forum?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
 [NeurIPS23](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
 [workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/231215_NeurIPS23_RFM.pdf){: .btn--research}{:target="_blank"}
 
 **End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
 Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön, 

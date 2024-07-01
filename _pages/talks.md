@@ -74,7 +74,27 @@ Master thesis defence, TU Delft, The Netherlands.\
 ---
 ## Posters
 
-January 11, 20223, **No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
+July 24, 2024, **No Double Descent in Principal Component Regression: A High-Dimensional Analysis**,
+*ICML*, 2024.\
+[OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
+[ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariancer.pdf){: .btn--research}{:target="_blank"}
+
+July 18, 2024, **Uncertainty Estimation with Recursive Feature Machines**,
+*UAI*, 2024.\
+[OpenReview](https://openreview.net/forum?id=TBKLXswKnO){: .btn--research}{:target="_blank"}
+[code](https://github.com/dgedon/rfm_uncertainty){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240718_UAI24_RFM_uncertainty.pdf){: .btn--research}{:target="_blank"}
+
+December  15, 2023, **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
+*UniReps: the First Workshop on Unifying Representations in Neural Models* Workshop at NeurIPS, 2023.\
+[OpenReview](https://openreview.net/forum?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
+[NeurIPS](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
+[workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/231215_NeurIPS23_RFM.pdf){: .btn--research}{:target="_blank"}
+
+January 11, 2023, **No Double Descent in PCA: Training and Pre-Training in High Dimensions**,
 *WASP winter conference*, Norrköping, Sweden.\
 [poster](/files/pdf/posters/230111_PCA_regression_WASP_winter.pdf){: .btn--research}
 
