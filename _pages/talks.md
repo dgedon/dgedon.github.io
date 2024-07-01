@@ -79,7 +79,7 @@ July 24, 2024, **No Double Descent in Principal Component Regression: A High-Dim
 [OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
 [ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
-[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariancer.pdf){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariance.pdf){: .btn--research}{:target="_blank"}
 
 July 18, 2024, **Uncertainty Estimation with Recursive Feature Machines**,
 *UAI*, 2024.\

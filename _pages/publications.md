@@ -30,7 +30,7 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 [OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
 [ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
-[poster](/files/pdf/posters/240722_ICML24_PCR_spiked_covariance.pdf){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariance.pdf){: .btn--research}{:target="_blank"}
 
 **Uncertainty Estimation with Recursive Feature Machines**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin,
