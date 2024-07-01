@@ -40,13 +40,18 @@ On the applied side, my research uses deep models for the evaluation of electroc
 ---
 ## Latest research results and news
 
+**June 14, 2024, Ph.D.**: I successfully defended my Ph.D. thesis "On Deep Learning for Low-Dimensional Representations".\
+[pdf](/files/pdf/dissertation/dissertation_daniel_gedon.pdf){: .btn--research}
+[DiVA](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1849417&dswid=9555){: .btn--research}{:target="_blank"}
+[slides](/files/pdf/slides/240614_dissertation.pdf){: .btn--research}
+
 **May 2, 2024, Accepted Paper**: Our high-dimensional analysis paper got accepted to ICML. We study the combination of 
 Principal Component Analysis (PCA) with linear regression on data from a spiked covariance model to provide precise
 asymptotic guarantees for the risk.\
 [OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
 [ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
-[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariancer.pdf){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariance.pdf){: .btn--research}{:target="_blank"}
 
 **April 26, 2024, Accepted Paper**: Our work on integrating Recursive Feature Machines (RFMs) into Gaussian Processes 
 was accepted at UAI. We show that the resulting GP-RFM is a strong alternative to existing SOTA methods for tabular 
@@ -62,13 +67,6 @@ and in GPs with Automatic Relevance Determination.\
 [NeurIPS](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
 [workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
 [poster](/files/pdf/posters/231215_NeurIPS23_RFM.pdf){: .btn--research}{:target="_blank"}
-
-**September 30, 2023, Accepted Paper**: Our MSc students work on ECG-based risk prediction was published at
-the Journal of Electrocardiography. Congrats, Theogene!\
-[doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
-[arXiv](https://arxiv.org/abs/2309.16335){: .btn--research}{:target="_blank"}
-[code](https://github.com/mygithth27/af-risk-prediction-by-ecg-dnn){: .btn--research}{:target="_blank"}
-[models](https://zenodo.org/record/7038219#.Y9PhldLMJNw){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)

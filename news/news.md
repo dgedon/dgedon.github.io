@@ -10,13 +10,18 @@ redirect_from:
 
 Back to page: [home](\home\).
 
+**June 14, 2024, Ph.D.**: I successfully defended my Ph.D. thesis "On Deep Learning for Low-Dimensional Representations".\
+[pdf](/files/pdf/dissertation/dissertation_daniel_gedon.pdf){: .btn--research}
+[DiVA](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1849417&dswid=9555){: .btn--research}{:target="_blank"}
+[slides](/files/pdf/slides/240614_dissertation.pdf){: .btn--research}
+
 **May 2, 2024, Accepted Paper**: Our high-dimensional analysis paper got accepted to ICML. We study the combination of 
 Principal Component Analysis (PCA) with linear regression on data from a spiked covariance model to provide precise
 asymptotic guarantees for the risk.\
 [OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
 [ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
-[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariancer.pdf){: .btn--research}{:target="_blank"}
+[poster](/files/pdf/posters/240724_ICML24_PCR_spiked_covariance.pdf){: .btn--research}{:target="_blank"}
 
 **April 26, 2024, Accepted Paper**: Our work on integrating Recursive Feature Machines (RFMs) into Gaussian Processes 
 was accepted at UAI. We show that the resulting GP-RFM is a strong alternative to existing SOTA methods for tabular 
