@@ -10,7 +10,7 @@ redirect_from:
 
 Back to page: [home](\home\).
 
-**September 15, 2024, Postdoc**: I started my postdoc at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"} at the University of Tübingen, Germany.\
+**September 15, 2024, Postdoc**: I started my postdoc at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"} at the University of Tübingen, Germany.
 
 **June 14, 2024, Ph.D.**: I successfully defended my Ph.D. thesis "On Deep Learning for Low-Dimensional Representations".\
 [pdf](/files/pdf/dissertation/dissertation_daniel_gedon.pdf){: .btn--research}
