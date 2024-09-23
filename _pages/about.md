@@ -11,11 +11,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [Uppsala University](https://www.uu.se/en){:target="_blank"}, Sweden advised by
-[Thomas Schön](http://user.it.uu.se/~thosc112/){:target="_blank"} (main),
-[Niklas Wahlström](https://katalog.uu.se/profile/?id=N16-250){:target="_blank"} 
-and [Antônio H. Ribeiro](https://antonior92.github.io/){:target="_blank"}.
-I am fully supported by [WASP](https://wasp-sweden.org/){:target="_blank"}.
+I am a postdoctoral researcher at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"} at the University of Tübingen, Germany working with [Jakob Macke](https://www.mackelab.org){:target="_blank"}. 
 
 My research is fairly diverse.
 Mainly, I try to understand deep learning through theory and empirical observations.
@@ -30,7 +26,7 @@ On the applied side, my research uses deep models for the evaluation of electroc
 
 ---
 ## Background
-- Fall 2024: Incoming PostDoc at Tübingen University, Germany.  
+- Currently: PostDoc at Tübingen University, Germany.  
 - 2024: Ph.D. in deep learning at Uppsala University, Sweden.
 - 2019: M.Sc. in systems and control from TU Delft, the Netherlands.
 - 2015: B.Sc. in aerospace engineering from DHBW, Germany.
@@ -39,6 +35,8 @@ On the applied side, my research uses deep models for the evaluation of electroc
 
 ---
 ## Latest research results and news
+
+**September 15, 2024, Postdoc**: I started my postdoc at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"} at the University of Tübingen, Germany.\
 
 **June 14, 2024, Ph.D.**: I successfully defended my Ph.D. thesis "On Deep Learning for Low-Dimensional Representations".\
 [pdf](/files/pdf/dissertation/dissertation_daniel_gedon.pdf){: .btn--research}
@@ -59,14 +57,6 @@ regression problems.\
 [OpenReview](https://openreview.net/forum?id=TBKLXswKnO){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/rfm_uncertainty){: .btn--research}{:target="_blank"}
 [poster](/files/pdf/posters/240718_UAI24_RFM_uncertainty.pdf){: .btn--research}{:target="_blank"}
-
-**November 6, 2023, Accepted Paper**: The first work from my research visit at Misha Belkins Lab at UCSD was accepted 
-at the UniReps workshop at NeurIPS. We studied the emergence of similar representations in Recursive Feature Machines 
-and in GPs with Automatic Relevance Determination.\
-[OpenReview](https://openreview.net/forum?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
-[NeurIPS](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
-[workshop](https://unireps.org/){: .btn--research}{:target="_blank"}
-[poster](/files/pdf/posters/231215_NeurIPS23_RFM.pdf){: .btn--research}{:target="_blank"}
 
 
 All news can be found [here](/news/)

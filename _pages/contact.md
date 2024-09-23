@@ -8,13 +8,9 @@ redirect_from:
   - /contacts
 ---
 
-I am part of the [Department of Information Technology](https://www.it.uu.se/){:target="_blank"}, 
-division of [Systems and Control](https://www.it.uu.se/research/systems_and_control){:target="_blank"} 
-at [Uppsala University](https://uu.se/en){:target="_blank"}, Sweden.
+I am part of the [MackeLab](https://www.mackelab.org){:target="_blank"} at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"}.
 
 **E-mail:** [daniel.gedon@it.uu.se](mailto:daniel.gedon@it.uu.se)\
-**Visiting address:** [Room 103166](https://link.mazemap.com/PwWdsfE0){:target="_blank"}, 
-[Ångströmlaboratoriet, hus 10 - 752 37 Uppsala](https://goo.gl/maps/EZumPhF7q7A2){:target="_blank"}\
-**Postal address:**  Box 337 - SE-751 05 Uppsala
+**Visiting address:** Room 40-28/A18, Floor 4, [Tübingen AI Center, Maria-von-Linden-Straße 6, 72072 Tübingen, Germany]https://maps.app.goo.gl/5XGiHH81pGSSCq896){:target="_blank"}\
 
-Let me know if you are close by and visit me!
+Let me know if you are close by and want to chat! I am always open to get to know new people and discuss research ideas.

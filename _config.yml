@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel Gedon"
 title_separator          : "-"
 name                     : &name "Daniel Gedon"
-description              : &description "Ph.D. Candidate in Deep Learning at Uppsala University, Sweden"
+description              : &description "Postdoctoral researcher at Tübingen University, Germany"
 url                      : https://dgedon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dgedon/dgedon.github.io"
@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Daniel Gedon"
   avatar           : "profile/profile_2020_calender.jpg"
-  bio              : "Ph.D. Candidate"
-  location         : "Uppsala, Sweden"
+  bio              : "Postdoctoral researcher"
+  location         : "Tübingen, Germany"
   employer         :
   pubmed           :
   orcid            :
