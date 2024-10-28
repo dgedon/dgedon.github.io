@@ -13,20 +13,21 @@ redirect_from:
 
 I am a postdoctoral researcher at the [Tübingen AI center](https://tuebingen.ai){:target="_blank"} at the University of Tübingen, Germany working with [Jakob Macke](https://www.mackelab.org){:target="_blank"}. 
 
+<!--Mainly, I try to understand deep learning through theory and empirical observations. -->
 My research is fairly diverse.
-Mainly, I try to understand deep learning through theory and empirical observations.
-I am interested in
-- low-dimensional data representation learning,
+Mainly, I try to understand deep learning through theory and empirical observations to then apply it to solve scientific problems.
+Specifically, I am interested in
 - modelling of temporal data,
-- the role of overparameterization,
-- unsupervised representation learning.
+- automated model discovery,
+- the role of overparameterization.
 
-On the applied side, my research uses deep models for the evaluation of electrocardiogram (ECG) recordings to
-(1) support physicians with diagnosis and (2) explore the information within those recordings.
+On the applied side, I develop deep models for
+(1) automated evaluations of electrocardiogram (ECG) recordings, and
+(2) for systems pharmacology models, with focus on chronic kidney disease.
 
 ---
 ## Background
-- Currently: PostDoc at Tübingen University, Germany.  
+- Currently: Postdoctoral fellow at Tübingen University, Germany.  
 - 2024: Ph.D. in deep learning at Uppsala University, Sweden.
 - 2019: M.Sc. in systems and control from TU Delft, the Netherlands.
 - 2015: B.Sc. in aerospace engineering from DHBW, Germany.

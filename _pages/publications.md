@@ -4,25 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
----
-## Pre-prints and working manuscripts
-**Deep networks for system identification: a Survey**,
-Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
-*arXiv:2301.12832*, provisionally accepted at Automatica,
-2023.\
-[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
-
-
-**ECG-Based Electrolyte Prediction: Evaluating Regression and Probabilistic Methods**,
-Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
-*arXiv:2212.13890*,
-2022.\
-[arXiv](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
+<!-- ---
+## Pre-prints and working manuscripts -->
 
 
 ---
 ## Peer-reviewed publications
+
+**Deep networks for system identification: a Survey**,
+Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,
+Automatica, 2025.\
+[doi](https://doi.org/10.1016/j.automatica.2024.111907){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2301.12832){: .btn--research}{:target="_blank"}
 
 **No Double Descent in Principal Component Regression: A High-Dimensional Analysis**,
 **DG**, Antônio H. Ribeiro, Thomas B. Schön,
@@ -38,6 +31,14 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 [OpenReview](https://openreview.net/forum?id=TBKLXswKnO){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/rfm_uncertainty){: .btn--research}{:target="_blank"}
 [poster](/files/pdf/posters/240718_UAI24_RFM_uncertainty.pdf){: .btn--research}{:target="_blank"}
+
+**Evaluating regression and probabilistic methods for ECG-based electrolyte prediction**,
+Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik Lampa, Stefan Gustafsson, Johan Sundström, Thomas B. Schön,
+*Scientific Reports* 14, 15273, 2024.\
+[doi](https://doi.org/10.1038/s41598-024-65223-w){: .btn--research}{:target="_blank"}
+[arXiv](https://arxiv.org/abs/2212.13890){: .btn--research}{:target="_blank"}
+[code](https://github.com/philippvb/ecg-electrolyte-regression){: .btn--research}{:target="_blank"}
+[models](https://zenodo.org/records/7456316#.Y6CHPS8w1qs){: .btn--research}{:target="_blank"}
 
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
 **DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
