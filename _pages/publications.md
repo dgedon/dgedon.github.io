@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!-- ---
-## Pre-prints and working manuscripts -->
+## Pre-prints and working manuscripts
+**Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models**,
+Julius Vetter, Manuel Gloeckler, **DG**, Jakob H. Macke,
+[arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
 
 
 ---
@@ -41,7 +43,7 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 [models](https://zenodo.org/records/7456316#.Y6CHPS8w1qs){: .btn--research}{:target="_blank"}
 
 **On Feature Learning of Recursive Feature Machines and Automatic Relevance Determination**,
-**DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin, 
+**DG**, Amirhesam Abedsoltan, Thomas B. Schön, Mikhail Belkin,
 *UniReps: the First Workshop on Unifying Representations in Neural Models* Workshop at NeurIPS, 2023.\
 [OpenReview](https://openreview.net/forum?id=I9dkBah6Z9){: .btn--research}{:target="_blank"}
 [NeurIPS23](https://nips.cc/virtual/2023/80409){: .btn--research}{:target="_blank"}
@@ -49,7 +51,7 @@ Philipp Von Bachmann, **DG**, Fredrik K. Gustafsson, Antônio H. Ribeiro, Erik L
 [poster](/files/pdf/posters/231215_NeurIPS23_RFM.pdf){: .btn--research}{:target="_blank"}
 
 **End-to-end Risk Prediction of Atrial Fibrillation from the 12-Lead ECG by Deep Neural Networks**,
-Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön, 
+Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P. Ribeiro, Thomas B. Schön,
 *Journal of Electrocardiology*,
 2023.\
 [doi](https://doi.org/10.1016/j.jelectrocard.2023.09.011){: .btn--research}{:target="_blank"}
@@ -60,7 +62,7 @@ Theogene Habineza, Antônio H. Ribeiro, **DG**, Joachim A. Behar, Antonio Luiz P
 **Screening for Chagas disease from the electrocardiogram using a deep neural network**,
 Carl Jidling, **DG**, Thomas B. Schön, Claudia Di Lorenzo Oliveira, Clareci Silva Cardoso, Ariela Mota Ferreira,
 Luana Giatti, Sandhi Maria Barreto, Ester C. Sabino, Antonio L. P. Ribeiro, Antônio H. Ribeiro,
-*PLOS Neglected Tropical Diseases*, 
+*PLOS Neglected Tropical Diseases*,
 2023.\
 [doi](https://doi.org/10.1371/journal.pntd.0011118){: .btn--research}{:target="_blank"}
 [medRxiv](https://www.medrxiv.org/content/10.1101/2023.01.24.23284930v1){: .btn--research}{:target="_blank"}

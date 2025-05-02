@@ -3,14 +3,21 @@ permalink: /teaching/
 title: "Teaching"
 layout: archive
 author_profile: true
-redirect_from: 
+redirect_from:
   - /teach/
   - /teach.html
 ---
 
-During my Ph.D. I am officially spending 20% of my time (i.e. one year in total) on teaching. 
-This regards all courses at Uppsala University from 2019 on.\
-In all courses below I was acting as teaching assistant.
+During my Ph.D. I am officially spending 20% of my time (i.e. one year in total) on teaching.
+This regards all courses at Uppsala University from 2019 to 2024.
+
+---
+## Tübingen University, Germany
+- Teamproject in Software Engineering - Benchmark for misspecified SBI,
+BSc level, Spring 2025, [Details](https://se.informatik.uni-tuebingen.de/teaching/teamproject/){:target="_blank"}
+
+- Seminar on "machine learning methods for scientific discovery", Focus on "Advances in Simulation-Based Inference",
+MSc level, Spring 2025.
 
 ---
 ## Uppsala University, Sweden
@@ -20,7 +27,7 @@ MSc level, Fall 2023, [Syllabus](https://uppsala.instructure.com/courses/80540){
 - Advanced Probabilistic Machine Learning, 1RT705/1RT003,
 MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/85923){:target="_blank"}
 
-- Empirical Modelling and System Identification, 1RT890/1RT885, 
+- Empirical Modelling and System Identification, 1RT890/1RT885,
 MSc level, Fall 2023. [Syllabus](https://uppsala.instructure.com/courses/87002){:target="_blank"}
 
 - Artificial Intelligence and Machine Learning, WASP Graduate School,
