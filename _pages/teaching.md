@@ -14,7 +14,7 @@ This regards all courses at Uppsala University from 2019 to 2024.
 ---
 ## Tübingen University, Germany
 - Teamproject in Software Engineering - Benchmark for misspecified SBI,
-BSc level, Spring 2025, [Details](https://se.informatik.uni-tuebingen.de/teaching/teamproject/){:target="_blank"}
+BSc level, Spring 2025.
 
 - Seminar on "machine learning methods for scientific discovery", Focus on "Advances in Simulation-Based Inference",
 MSc level, Spring 2025.

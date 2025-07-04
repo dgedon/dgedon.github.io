@@ -15,12 +15,12 @@ I am a postdoctoral researcher at the [Tübingen AI center](https://tuebingen.ai
 
 <!--Mainly, I try to understand deep learning through theory and empirical observations. -->
 My research is fairly diverse.
-Mainly, I try to understand deep learning through theory and empirical observations to then apply it to solve scientific problems.
+I try to understand machine learning algorithms through theory and empirical observations to then build rigorously grounded methods to solve scientific problems. Generally, I aim to build machine learning tools for scientific discovery.
 Specifically, I am interested in
-- automated model discovery,
+- scientific and mechanistic model discovery,
 - simulation-based inference,
-- modeling of dynamical systems,
-- foundation models for scientific data.
+- foundation models for scientific data,
+- modeling of dynamical systems.
 
 On the applied side, I develop deep models for
 (1) automated evaluations of electrocardiogram (ECG) recordings, and
