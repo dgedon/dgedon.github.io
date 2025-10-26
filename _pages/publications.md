@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 ## Pre-prints and working manuscripts
-**Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models**,
-Julius Vetter, Manuel Gloeckler, **DG**, Jakob H. Macke,
-[arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
 
+**A deep learning ECG model for localization of occlusion myocardial infarction**,
+Stefan Gustafsson, Antônio H. Ribeiro, **DG**, Petrus E. O. G. B. Abreu, Nicolas Pielawski, Gabriela M. M. Paixão, Antonio Luiz P. Ribeiro, Daniel Lindholm, Thomas B. Schön, Johan Sundström,
+*medRxiv*, 2025.\
+[medRxiv](https://www.medrxiv.org/content/10.1101/2025.09.11.25335407v1){: .btn--research}{:target="_blank"}
 
 ---
 ## Peer-reviewed publications
+
+**Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models**,
+Julius Vetter, Manuel Gloeckler, **DG**, Jakob H. Macke,
+*NeurIPS*, 2025.\
+[arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
+[code](https://github.com/mackelab/npe-pf){: .btn--research}{:target="_blank"}
+<!-- [OpenReview](https://openreview.net/forum?id=kN0YHWGDPH){: .btn--research}{:target="_blank"} -->
 
 **Deep networks for system identification: a Survey**,
 Gianluigi Pillonetto, Aleksandr Aravkin, **DG**, Lennart Ljung, Antônio H. Ribeiro, Thomas B. Schön,

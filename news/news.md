@@ -10,10 +10,18 @@ redirect_from:
 
 Back to page: [home](\home\).
 
-**April 25, 2025 New Preprint**: First paper on SBI. We integrate the latest foundation model
-for tabular data, TabPFN, for the use of Bayesian inference, specifically for SBI.\
+**September 18, 2025, NeurIPS paper**:
+Our SBI foundation model paper using TabPFN got accepted to NeurIPS 2025. See you all in San Diego!
 [arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
-[Code](https://github.com/mackelab/npe-pf){: .btn--research}{:target="_blank"}
+[Code](https://github.com/mackelab/npe-pfn){: .btn--research}{:target="_blank"}
+
+**September 12, 2025, New Preprint**: A follow up work on our ECG based heart attack detection model, proposing direct acute occlusion myocardial infarction (OMI) identification and localization from ECGs rather than the STEMI-NSTEMI paradigm. \
+[arXiv](https://www.medrxiv.org/content/10.1101/2025.09.11.25335407v1){: .btn--research}{:target="_blank"}
+
+**April 25, 2025, New Preprint**: My first paper on SBI. We integrate the latest foundation model
+for tabular data, TabPFN, for the use in Bayesian inference, specifically for SBI.\
+[arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
+[Code](https://github.com/mackelab/npe-pfn){: .btn--research}{:target="_blank"}
 
 **Dezember 11, 2024, SBI hackathon**: We organize a hackathon on the SBI toolbox that we maintain.
  The hackathon is remote and on-site at the University of Tübingen during 17-21 March 2025.\
