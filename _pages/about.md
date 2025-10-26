@@ -41,7 +41,7 @@ On the applied side, I develop deep models for
 ## Latest news
 
 **September 18, 2025, NeurIPS paper**:
-Our SBI foundation model paper using TabPFN got accepted to NeurIPS 2025. See you all in San Diego!
+Our SBI foundation model paper using TabPFN got accepted to NeurIPS 2025. See you all in San Diego! \
 [arXiv](https://arxiv.org/abs/2504.17660){: .btn--research}{:target="_blank"}
 [Code](https://github.com/mackelab/npe-pfn){: .btn--research}{:target="_blank"}
 
