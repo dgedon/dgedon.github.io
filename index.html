@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daniel Gedon</title>
+  <meta name="description" content="Daniel Gedon — Postdoctoral researcher at Tübingen AI Center. Machine learning for scientific discovery." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Dark/light toggle -->
+  <button id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle theme">☀</button>
+
+  <div class="container">
+
+    <!-- ── Profile header ── -->
+    <header class="profile">
+      <img
+        class="profile-photo"
+        src="assets/profile.jpg"
+        alt="Daniel Gedon"
+        width="110"
+        height="110"
+      />
+      <div class="profile-info">
+        <h1>Daniel Gedon</h1>
+        <p class="title">Postdoctoral Researcher<br>
+          Tübingen AI Center ·
+          University of Tübingen
+        </p>
+
+        <!-- Social / contact links -->
+        <nav class="links" aria-label="Links">
+          <a href="mailto:daniel.gedon@uni-tuebingen.de" title="Email">
+            <!-- envelope icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+            Email
+          </a>
+          <a href="https://scholar.google.de/citations?user=5wF916YAAAAJ&hl" target="_blank" rel="noopener" title="Google Scholar">
+            <!-- graduation cap icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+            Scholar
+          </a>
+          <a href="https://github.com/dgedon" target="_blank" rel="noopener" title="GitHub">
+            <!-- github icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
+            GitHub
+          </a>
+          <a href="https://twitter.com/danigedon" target="_blank" rel="noopener" title="Twitter / X">
+            <!-- x / twitter icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4l16 16M4 20L20 4"/></svg>
+            Twitter
+          </a>
+          <a href="https://www.linkedin.com/in/dgedon" target="_blank" rel="noopener" title="LinkedIn">
+            <!-- linkedin icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+            LinkedIn
+          </a>
+          <a href="https://bsky.app/profile/danielged.bsky.social" target="_blank" rel="noopener" title="Bluesky">
+            <!-- bluesky butterfly icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 12c-2-2.5-6-5-8.5-3C2 10 2.5 12 4 13c1 .7 2.5.7 4 .3"/><path d="M12 12c2-2.5 6-5 8.5-3C22 10 21.5 12 20 13c-1 .7-2.5.7-4 .3"/><path d="M12 12c-2 2.5-6 5-8.5 3C2 14 2.5 12 4 11"/><path d="M12 12c2 2.5 6 5 8.5 3C22 14 21.5 12 20 11"/></svg>
+            Bluesky
+          </a>
+          <a class="cv-link" href="assets/CV_DanielGedon_2602.pdf" target="_blank" rel="noopener" title="Curriculum Vitae (PDF)">
+            <!-- file icon -->
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            CV
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <hr />
+
+    <!-- ── About ── -->
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        I am a postdoctoral researcher at the
+        <a href="https://tuebingen.ai" target="_blank" rel="noopener">Tübingen AI Center</a>
+        at the University of Tübingen, working with
+        <a href="https://www.mackelab.org" target="_blank" rel="noopener">Jakob Macke</a>.
+        I develop probabilistic machine learning methods for scientific discovery,
+        with a focus on simulation-based inference and foundation models for science.
+      </p>
+    </section>
+
+    <!-- ── Research interests ── -->
+    <section id="interests">
+      <h2>Research Interests</h2>
+      <div class="interests">
+        <span>Scientific model discovery</span>
+        <span>Simulation-based inference</span>
+        <span>Foundation models for science</span>
+        <span>LLMs for science</span>
+        <span>Dynamical systems</span>
+        <span>ECG deep learning</span>
+      </div>
+    </section>
+
+    <!-- ── Selected papers ── -->
+    <section id="papers">
+      <h2>Selected Papers</h2>
+      <div class="papers">
+
+        <div class="paper">
+          <div class="paper-title">
+            Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models
+          </div>
+          <div class="paper-meta">
+            Julius Vetter, Manuel Gloeckler, <strong>Daniel Gedon</strong>*, Jakob H. Macke*
+            &nbsp;·&nbsp; NeurIPS 2025
+          </div>
+          <div class="paper-links">
+            <a href="https://arxiv.org/abs/2504.17660" target="_blank" rel="noopener">arXiv</a>
+            <a href="https://openreview.net/forum?id=kN0YHWGDPH" target="_blank" rel="noopener">OpenReview</a>
+            <a href="https://github.com/mackelab/npe-pfn" target="_blank" rel="noopener">Code</a>
+          </div>
+        </div>
+
+        <div class="paper">
+          <div class="paper-title">
+            A Deep Learning ECG Model for Localization of Occlusion Myocardial Infarction
+          </div>
+          <div class="paper-meta">
+            Stefan Gustafsson, Antônio H. Ribeiro, <strong>Daniel Gedon</strong>, Petrus E.O.G.B. Abreu,
+            Nicolas Pielawski, Gabriela M.M. Paixão, Antonio Luiz P. Ribeiro, Daniel Lindholm,
+            Thomas B. Schön, Johan Sundström
+            &nbsp;·&nbsp; medRxiv 2025
+          </div>
+          <div class="paper-links">
+            <a href="https://doi.org/10.1101/2025.09.11.25335407" target="_blank" rel="noopener">medRxiv</a>
+          </div>
+        </div>
+
+        <div class="paper">
+          <div class="paper-title">
+            Deep Networks for System Identification: A Survey
+          </div>
+          <div class="paper-meta">
+            Gianluigi Pillonetto, Aleksandr Aravkin, <strong>Daniel Gedon</strong>, Lennart Ljung,
+            Antônio H. Ribeiro, Thomas B. Schön
+            &nbsp;·&nbsp; Automatica 2025
+          </div>
+          <div class="paper-links">
+            <a href="https://doi.org/10.1016/j.automatica.2024.111907" target="_blank" rel="noopener">DOI</a>
+            <a href="https://arxiv.org/abs/2301.12832" target="_blank" rel="noopener">arXiv</a>
+          </div>
+        </div>
+
+        <div class="paper">
+          <div class="paper-title">
+            No Double Descent in Principal Component Regression: A High-Dimensional Analysis
+          </div>
+          <div class="paper-meta">
+            <strong>Daniel Gedon</strong>, Antônio H. Ribeiro, Thomas B. Schön
+            &nbsp;·&nbsp; ICML 2024
+          </div>
+          <div class="paper-links">
+            <a href="https://openreview.net/forum?id=M4ejBhNNrn" target="_blank" rel="noopener">OpenReview</a>
+            <a href="https://github.com/dgedon/PCR_spiked_covariance" target="_blank" rel="noopener">Code</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <p>Daniel Gedon &nbsp;·&nbsp; Tübingen, Germany &nbsp;·&nbsp; Last updated Feb 2026</p>
+    </footer>
+
+  </div>
+
+  <!-- Theme toggle script -->
+  <script>
+    (function () {
+      const root = document.documentElement;
+      const btn  = document.getElementById('theme-toggle');
+      const stored = localStorage.getItem('theme');
+      if (stored === 'light') root.classList.add('light');
+      function update() {
+        btn.textContent = root.classList.contains('light') ? '☾' : '☀';
+        btn.title = root.classList.contains('light') ? 'Switch to dark mode' : 'Switch to light mode';
+      }
+      update();
+      btn.addEventListener('click', function () {
+        root.classList.toggle('light');
+        localStorage.setItem('theme', root.classList.contains('light') ? 'light' : 'dark');
+        update();
+      });
+    })();
+  </script>
+
+</body>
+</html>

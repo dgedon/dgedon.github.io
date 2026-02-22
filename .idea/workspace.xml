@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="56d4b9be-d0a5-4c1a-937e-f7f607ce33cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/teaching.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/teaching.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dgedon&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -29,9 +34,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dgedon/dgedon.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;cdbbeedb-af64-4d8c-8e66-4b937636b903&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="23EGaRjU54bgQerwk3Ezf6NHYoA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,6 +55,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/daniel/Dropbox/04_PhD/00_Research/01_projects/16_overparametrization/generative_kPCA&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -58,6 +73,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -79,6 +95,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,6 +151,30 @@
       <workItem from="1678385129368" duration="101000" />
       <workItem from="1678411358737" duration="688000" />
       <workItem from="1679197697899" duration="1456000" />
+      <workItem from="1684726873708" duration="1170000" />
+      <workItem from="1688463085868" duration="1830000" />
+      <workItem from="1688715505135" duration="391000" />
+      <workItem from="1690984807138" duration="518000" />
+      <workItem from="1691392527246" duration="30000" />
+      <workItem from="1691397269495" duration="5000" />
+      <workItem from="1693857517336" duration="2359000" />
+      <workItem from="1693859974319" duration="601000" />
+      <workItem from="1693897129460" duration="11000" />
+      <workItem from="1694765090386" duration="48000" />
+      <workItem from="1694768866642" duration="97000" />
+      <workItem from="1695312682739" duration="271000" />
+      <workItem from="1695883987110" duration="2858000" />
+      <workItem from="1696269838768" duration="998000" />
+      <workItem from="1697050781129" duration="635000" />
+      <workItem from="1697178258354" duration="481000" />
+      <workItem from="1697551438930" duration="13000" />
+      <workItem from="1699284212627" duration="1485000" />
+      <workItem from="1700222421354" duration="817000" />
+      <workItem from="1700657842899" duration="928000" />
+      <workItem from="1715239403041" duration="1782000" />
+      <workItem from="1719831149551" duration="4363000" />
+      <workItem from="1719836285283" duration="144000" />
+      <workItem from="1719905846799" duration="250000" />
     </task>
     <servers />
   </component>

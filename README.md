@@ -1,31 +1,56 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# dgedon.github.io
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Personal website for [dgedon.github.io](https://dgedon.github.io).
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Plain HTML + CSS — no build step, no Jekyll, no dependencies.
 
-# Instructions
+## Files
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+| File | Purpose |
+|------|---------|
+| `index.html` | The entire website |
+| `style.css` | All styles (colors, layout, typography) |
+| `.nojekyll` | Tells GitHub Pages to skip Jekyll processing |
+| `assets/profile.jpg` | Profile photo |
+| `assets/cv.pdf` | CV PDF |
 
-See more info at https://academicpages.github.io/
+## How to update
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+### Update text content (bio, papers, links)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+Edit `index.html` directly. All content is plain HTML — no template engine.
 
-# Changelog -- bugfixes and enhancements
+### Add a new selected paper
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+Find the `<div class="papers">` block in `index.html` and add a new entry:
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+```html
+<div class="paper">
+  <div class="paper-title">Paper Title Here</div>
+  <div class="paper-meta">Author et al. &nbsp;·&nbsp; Venue Year</div>
+  <div class="paper-links">
+    <a href="https://arxiv.org/abs/..." target="_blank" rel="noopener">arXiv</a>
+    <a href="https://github.com/..." target="_blank" rel="noopener">Code</a>
+  </div>
+</div>
+```
+
+### Update CV
+
+Replace `assets/cv.pdf` with the new file (keep the same filename), or drop in a new file and update the `href` in `index.html`:
+
+```html
+<a class="cv-link" href="assets/cv.pdf" ...>CV</a>
+```
+
+### Change profile photo
+
+Replace `assets/profile.jpg` with the new photo (keep the same filename), or drop in a new file and update the `src` in `index.html`:
+
+```html
+<img class="profile-photo" src="assets/your_photo.jpg" ... />
+```
+
+## Deploy
+
+Push to `master`. GitHub Pages deploys automatically within ~1 minute.

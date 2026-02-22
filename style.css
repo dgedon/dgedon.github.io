@@ -1,0 +1,317 @@
+/* ============================================================
+   CSS custom properties — dark (default) and light variants
+   ============================================================ */
+:root {
+  --bg:        #111111;
+  --bg-card:   #1a1a1a;
+  --border:    #2a2a2a;
+  --text:      #e0e0e0;
+  --muted:     #888888;
+  --accent:    #7eb8f7;
+  --accent-hv: #a8d0fb;
+  --toggle-bg: #2a2a2a;
+}
+
+:root.light {
+  --bg:        #f8f8f8;
+  --bg-card:   #ffffff;
+  --border:    #e0e0e0;
+  --text:      #1a1a1a;
+  --muted:     #666666;
+  --accent:    #2563eb;
+  --accent-hv: #1d4ed8;
+  --toggle-bg: #e0e0e0;
+}
+
+/* ============================================================
+   Reset & base
+   ============================================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  line-height: 1.65;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  min-height: 100vh;
+  padding: 0 1rem;
+}
+
+/* ============================================================
+   Theme toggle button
+   ============================================================ */
+#theme-toggle {
+  position: fixed;
+  top: 1.25rem;
+  right: 1.25rem;
+  background: var(--toggle-bg);
+  border: none;
+  border-radius: 50%;
+  width: 2.25rem;
+  height: 2.25rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: var(--text);
+  transition: background 0.2s ease, color 0.2s ease;
+  z-index: 100;
+}
+
+#theme-toggle:hover {
+  background: var(--border);
+}
+
+/* ============================================================
+   Layout container
+   ============================================================ */
+.container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 4rem 0 5rem;
+}
+
+/* ============================================================
+   Header — photo, name, links
+   ============================================================ */
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.profile-photo {
+  flex-shrink: 0;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  filter: grayscale(15%);
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
+.profile-info h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.profile-info .title {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-top: 0.1rem;
+}
+
+/* ============================================================
+   Social links
+   ============================================================ */
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.9rem;
+}
+
+.links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 0.25rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  white-space: nowrap;
+}
+
+.links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.links a.cv-link {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.links a.cv-link:hover {
+  color: var(--accent-hv);
+  border-color: var(--accent-hv);
+}
+
+/* ============================================================
+   Divider
+   ============================================================ */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ============================================================
+   Sections
+   ============================================================ */
+section {
+  margin-bottom: 2.25rem;
+}
+
+section h2 {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}
+
+section p {
+  font-size: 0.925rem;
+  color: var(--text);
+}
+
+section p a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+section p a:hover {
+  color: var(--accent-hv);
+  text-decoration: underline;
+}
+
+/* ============================================================
+   Research interests — tag pills
+   ============================================================ */
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.25rem;
+}
+
+.interests span {
+  font-size: 0.82rem;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.2rem 0.55rem;
+}
+
+/* ============================================================
+   Papers list
+   ============================================================ */
+.papers {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.paper {
+  border-left: 2px solid var(--border);
+  padding-left: 0.9rem;
+}
+
+.paper-title {
+  font-size: 0.925rem;
+  font-weight: 500;
+  color: var(--text);
+  line-height: 1.4;
+}
+
+.paper-meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.2rem;
+}
+
+.paper-meta strong {
+  color: var(--text);
+  font-weight: 500;
+}
+
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.paper-links a {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 0.15rem 0.45rem;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.paper-links a:hover {
+  color: var(--accent-hv);
+  border-color: var(--accent);
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+footer {
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 1.25rem;
+}
+
+/* ============================================================
+   Responsive — mobile
+   ============================================================ */
+@media (max-width: 540px) {
+  .profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.25rem;
+  }
+
+  .links {
+    justify-content: center;
+  }
+
+  .interests {
+    justify-content: center;
+  }
+
+  .container {
+    padding: 2.5rem 0 4rem;
+  }
+
+  #theme-toggle {
+    top: 0.75rem;
+    right: 0.75rem;
+  }
+}
