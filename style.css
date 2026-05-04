@@ -242,15 +242,22 @@ section p a:hover {
   line-height: 1.4;
 }
 
-.paper-meta {
+.paper-authors {
   font-size: 0.8rem;
   color: var(--muted);
   margin-top: 0.2rem;
 }
 
-.paper-meta strong {
+.paper-authors strong {
   color: var(--text);
   font-weight: 500;
+}
+
+.paper-venue {
+  font-size: 0.8rem;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.1rem;
 }
 
 .paper-links {
