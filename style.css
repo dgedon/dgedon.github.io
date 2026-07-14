@@ -164,6 +164,61 @@ body {
 }
 
 /* ============================================================
+   Highlight banner
+   ============================================================ */
+.highlight-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  padding: 0.85rem 1.1rem;
+  margin-bottom: 2rem;
+}
+
+.highlight-banner p {
+  font-size: 0.875rem;
+  color: var(--text);
+  flex: 1 1 auto;
+  min-width: 200px;
+}
+
+.highlight-banner strong {
+  font-weight: 600;
+}
+
+.highlight-cta {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  padding: 0.3rem 0.7rem;
+  white-space: nowrap;
+  transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.highlight-cta:hover {
+  color: var(--bg);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+@media (max-width: 540px) {
+  .highlight-banner {
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+  }
+}
+
+/* ============================================================
    Divider
    ============================================================ */
 hr {
