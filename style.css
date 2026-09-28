@@ -308,6 +308,11 @@ section p a:hover {
   font-weight: 500;
 }
 
+.paper-award {
+  color: var(--accent);
+  font-weight: 500;
+}
+
 .paper-links {
   display: flex;
   flex-wrap: wrap;
